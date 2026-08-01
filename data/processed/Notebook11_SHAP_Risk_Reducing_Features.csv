@@ -1,0 +1,28 @@
+Rank,Feature,Mean_SHAP,Mean_Absolute_SHAP,Positive_SHAP_Count,Negative_SHAP_Count,Zero_SHAP_Count,Positive_SHAP_Proportion,Negative_SHAP_Proportion,Overall_Direction
+3,ATT_RATE,-0.500025,0.500025,0,658,0,0.0,1.0,Lower predicted At-Risk probability
+5,Gender,-0.4622043,0.4622043,0,658,0,0.0,1.0,Lower predicted At-Risk probability
+6,Study_hrs_day,-0.3254339,0.3254339,0,658,0,0.0,1.0,Lower predicted At-Risk probability
+20,Seeks help when stuck,-0.16253504,0.16256402,1,657,0,0.001519756838905775,0.9984802431610942,Lower predicted At-Risk probability
+23,Can improve performance,-0.15294763,0.15294763,0,658,0,0.0,1.0,Lower predicted At-Risk probability
+32,ASSIGN_LATE,-0.092108995,0.092108995,0,658,0,0.0,1.0,Lower predicted At-Risk probability
+40,Takes organised notes,-0.07849216,0.07849216,0,658,0,0.0,1.0,Lower predicted At-Risk probability
+1,GPA_S1,-0.06699009,0.97547704,409,249,0,0.621580547112462,0.378419452887538,Lower predicted At-Risk probability
+31,Persists when difficult,-0.061004017,0.093044914,189,469,0,0.2872340425531915,0.7127659574468085,Lower predicted At-Risk probability
+34,Sleep affects concentration,-0.041735344,0.088729896,228,430,0,0.3465045592705167,0.6534954407294833,Lower predicted At-Risk probability
+21,Sense of belonging,-0.03653881,0.16132149,177,481,0,0.2689969604863222,0.7310030395136778,Lower predicted At-Risk probability
+16,Physical health affected,-0.031859294,0.2007175,254,404,0,0.3860182370820669,0.6139817629179332,Lower predicted At-Risk probability
+35,Confident to complete prog,-0.014749558,0.088585354,364,294,0,0.5531914893617021,0.44680851063829785,Lower predicted At-Risk probability
+37,Participates in clubs,-0.013737796,0.0834847,301,357,0,0.4574468085106383,0.5425531914893617,Lower predicted At-Risk probability
+29,Sleep difficulty,-0.011405413,0.10235239,235,423,0,0.35714285714285715,0.6428571428571429,Lower predicted At-Risk probability
+43,Uses library regularly,-0.01135084,0.057505842,255,403,0,0.38753799392097266,0.6124620060790273,Lower predicted At-Risk probability
+18,Self_risk_percep,-0.010547833,0.18367442,227,431,0,0.34498480243161095,0.6550151975683891,Lower predicted At-Risk probability
+28,Peer study groups effective,-0.01021201,0.10772644,347,311,0,0.5273556231003039,0.4726443768996961,Lower predicted At-Risk probability
+14,Manages time effectively,-0.007443372,0.20255992,322,336,0,0.48936170212765956,0.5106382978723404,Lower predicted At-Risk probability
+8,LAB_AVG,-0.007414394,0.3171644,390,268,0,0.5927051671732523,0.4072948328267477,Lower predicted At-Risk probability
+17,Hopeless/unmotivated,-0.0066773305,0.19547947,413,245,0,0.6276595744680851,0.3723404255319149,Lower predicted At-Risk probability
+46,Regular exercise,-0.0062766154,0.046675064,279,379,0,0.42401215805471126,0.5759878419452887,Lower predicted At-Risk probability
+39,Considered break,-0.0059891874,0.08080332,441,217,0,0.6702127659574468,0.32978723404255317,Lower predicted At-Risk probability
+30,Rotations affect performance,-0.0048156646,0.09789384,188,470,0,0.2857142857142857,0.7142857142857143,Lower predicted At-Risk probability
+41,Reviews notes within 24h,-0.0018477809,0.064647764,362,296,0,0.5501519756838906,0.44984802431610943,Lower predicted At-Risk probability
+42,Prepared for clinical assess,-0.0014972946,0.05870226,309,349,0,0.4696048632218845,0.5303951367781155,Lower predicted At-Risk probability
+27,Confident in clinical skills,-0.001417932,0.12680484,305,353,0,0.4635258358662614,0.5364741641337386,Lower predicted At-Risk probability

@@ -1,0 +1,6 @@
+Metric,Cross_Validation,Untouched_Test_Threshold_0.50,Early_Warning_Threshold_0.10
+ROC-AUC,0.6182,0.5616,
+Accuracy,0.6725,0.6404,0.4649
+Precision,0.403,0.3214,0.3026
+Recall,0.3489,0.2903,0.7419
+F1-score,0.3687,0.3051,0.4299

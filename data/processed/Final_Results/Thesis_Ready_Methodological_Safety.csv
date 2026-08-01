@@ -1,0 +1,8 @@
+Control,Status
+Test data used for training,NO
+Test data used for SHAP feature selection,NO
+Test data used for hyperparameter tuning,NO
+Test data used for CV,NO
+Test data used for threshold selection,NO
+Test data used for final evaluation,YES — final evaluation only
+Model retrained during Cell 41,NO

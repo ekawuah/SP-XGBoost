@@ -1,0 +1,21 @@
+Rank,Feature,Mean_SHAP,Mean_Absolute_SHAP,Positive_SHAP_Count,Negative_SHAP_Count,Zero_SHAP_Count,Positive_SHAP_Proportion,Negative_SHAP_Proportion,Overall_Direction
+2,CLIN_AVG,0.50901735,0.50901735,658,0,0,1.0,0.0,Higher predicted At-Risk probability
+12,Financial_diff,0.14909358,0.22154252,555,103,0,0.8434650455927052,0.15653495440729484,Higher predicted At-Risk probability
+24,EXAM_AVG,0.14244683,0.14244683,658,0,0,1.0,0.0,Higher predicted At-Risk probability
+11,Programme prepares for career,0.11399665,0.24044874,519,139,0,0.7887537993920972,0.21124620060790272,Higher predicted At-Risk probability
+25,Employment_hrs,0.11311759,0.13051122,619,39,0,0.9407294832826748,0.05927051671732523,Higher predicted At-Risk probability
+7,Sleep_hrs,0.06091398,0.32285148,391,267,0,0.5942249240121581,0.40577507598784196,Higher predicted At-Risk probability
+45,CA_AVG,0.04486423,0.049219195,586,72,0,0.8905775075987842,0.1094224924012158,Higher predicted At-Risk probability
+13,Concentration in self-study,0.028364584,0.20981386,281,377,0,0.4270516717325228,0.5729483282674772,Higher predicted At-Risk probability
+38,Anxious about assessments,0.014785667,0.08212387,553,105,0,0.8404255319148937,0.1595744680851064,Higher predicted At-Risk probability
+26,Clinical takes study time,0.014084183,0.13027875,474,184,0,0.7203647416413373,0.2796352583586626,Higher predicted At-Risk probability
+33,Understands content pre-exam,0.0096326005,0.091574065,300,358,0,0.45592705167173253,0.5440729483282675,Higher predicted At-Risk probability
+19,Health interferes studies,0.0060937656,0.1633421,437,221,0,0.6641337386018237,0.33586626139817627,Higher predicted At-Risk probability
+10,Takes rest breaks,0.005842941,0.24382494,280,378,0,0.425531914893617,0.574468085106383,Higher predicted At-Risk probability
+9,Adequate supervision,0.0033674727,0.2629452,279,379,0,0.42401215805471126,0.5759878419452887,Higher predicted At-Risk probability
+4,Age_group,0.0032414708,0.46922827,282,376,0,0.42857142857142855,0.5714285714285714,Higher predicted At-Risk probability
+36,Completes readings,0.0022075577,0.085720964,340,318,0,0.5167173252279635,0.48328267477203646,Higher predicted At-Risk probability
+44,Burnt out,0.0015904583,0.056709807,456,202,0,0.6930091185410334,0.3069908814589666,Higher predicted At-Risk probability
+15,Self-motivates,0.0013415546,0.20073144,390,268,0,0.5927051671732523,0.4072948328267477,Higher predicted At-Risk probability
+47,Early intervention provided,0.0012660695,0.027641421,409,249,0,0.621580547112462,0.378419452887538,Higher predicted At-Risk probability
+22,Lecturers approachable,0.0007265498,0.15367463,475,183,0,0.7218844984802432,0.27811550151975684,Higher predicted At-Risk probability

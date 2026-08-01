@@ -1,0 +1,16 @@
+Metric,Value
+CV ROC-AUC,0.6182
+CV Accuracy,0.6725
+CV Precision,0.403
+CV Recall,0.3489
+CV F1,0.3687
+Test ROC-AUC,0.5616
+Test Accuracy,0.6404
+Test Precision,0.3214
+Test Recall,0.2903
+Test F1,0.3051
+Early-warning threshold,0.1
+Early-warning Recall,0.7419
+Early-warning Precision,0.3026
+Brier Score,0.2641
+PR-AUC,0.2841

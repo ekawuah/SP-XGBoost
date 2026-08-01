@@ -1,0 +1,9 @@
+Metric,Value
+Early_Warning_Threshold,0.1
+Recall_Sensitivity,0.7419354838709677
+Specificity,0.3614457831325301
+Precision_PPV,0.3026315789473684
+F1,0.42990654205607476
+Balanced_Accuracy,0.551690633501749
+Recall_Gain_vs_0.50,0.45161290322580644
+Specificity_Loss_vs_0.50,0.4096385542168675

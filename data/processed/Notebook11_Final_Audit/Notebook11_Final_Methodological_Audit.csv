@@ -1,0 +1,20 @@
+Audit_Item,Result
+Training observations,658
+Untouched test observations,114
+Original predictors,58
+SHAP-selected predictors,47
+SHAP threshold,95%
+CV folds,5
+CV ROC-AUC,0.6182
+CV ROC-AUC 95% CI,0.5513–0.6851
+Test ROC-AUC,0.5616
+Early-warning threshold,0.1
+Early-warning recall,0.7419
+Brier score,0.2641
+Top SHAP feature,GPA_S1
+Strongest interaction,CA_AVG × ATT_RATE
+Test used for training,NO
+Test used for SHAP,NO
+Test used for Optuna,NO
+Test used for threshold selection,NO
+Test used only for final evaluation,YES

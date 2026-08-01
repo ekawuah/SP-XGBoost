@@ -1,0 +1,8 @@
+Metric,Value
+SP_XGBoost_CV_ROC_AUC,0.6182
+Best_Baseline_CV_ROC_AUC,0.9223885710249347
+CV_ROC_AUC_Difference,-0.3041885710249347
+SP_XGBoost_Test_ROC_AUC,0.5616
+CV_Test_Generalization_Gap,0.056599999999999984
+SP_XGBoost_Feature_Count,47.0
+Original_Feature_Count,58.0

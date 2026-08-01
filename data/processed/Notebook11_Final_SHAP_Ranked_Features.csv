@@ -1,0 +1,48 @@
+Rank,Feature,Mean_Absolute_SHAP,Cumulative_SHAP
+1,GPA_S1,0.97547704,0.10959463
+2,CLIN_AVG,0.50901735,0.16678262
+3,ATT_RATE,0.500025,0.22296031
+4,Age_group,0.46922827,0.275678
+5,Gender,0.4622043,0.32760656
+6,Study_hrs_day,0.3254339,0.364169
+7,Sleep_hrs,0.32285148,0.4004413
+8,LAB_AVG,0.3171644,0.43607464
+9,Adequate supervision,0.2629452,0.46561646
+10,Takes rest breaks,0.24382494,0.49301013
+11,Programme prepares for career,0.24044874,0.5200245
+12,Financial_diff,0.22154252,0.5449147
+13,Concentration in self-study,0.20981386,0.5684873
+14,Manages time effectively,0.20255992,0.5912449
+15,Self-motivates,0.20073144,0.613797
+16,Physical health affected,0.2007175,0.6363476
+17,Hopeless/unmotivated,0.19547947,0.65830964
+18,Self_risk_percep,0.18367442,0.6789454
+19,Health interferes studies,0.1633421,0.69729686
+20,Seeks help when stuck,0.16256402,0.7155609
+21,Sense of belonging,0.16132149,0.7336854
+22,Lecturers approachable,0.15367463,0.7509507
+23,Can improve performance,0.15294763,0.76813436
+24,EXAM_AVG,0.14244683,0.7841382
+25,Employment_hrs,0.13051122,0.7988011
+26,Clinical takes study time,0.13027875,0.81343794
+27,Confident in clinical skills,0.12680484,0.82768446
+28,Peer study groups effective,0.10772644,0.8397875
+29,Sleep difficulty,0.10235239,0.85128677
+30,Rotations affect performance,0.09789384,0.86228514
+31,Persists when difficult,0.093044914,0.8727387
+32,ASSIGN_LATE,0.092108995,0.88308716
+33,Understands content pre-exam,0.091574065,0.89337546
+34,Sleep affects concentration,0.088729896,0.9033442
+35,Confident to complete prog,0.088585354,0.91329676
+36,Completes readings,0.085720964,0.9229275
+37,Participates in clubs,0.0834847,0.932307
+38,Anxious about assessments,0.08212387,0.9415336
+39,Considered break,0.08080332,0.9506119
+40,Takes organised notes,0.07849216,0.95943046
+41,Reviews notes within 24h,0.064647764,0.96669364
+42,Prepared for clinical assess,0.05870226,0.97328883
+43,Uses library regularly,0.057505842,0.9797496
+44,Burnt out,0.056709807,0.98612094
+45,CA_AVG,0.049219195,0.9916507
+46,Regular exercise,0.046675064,0.99689466
+47,Early intervention provided,0.027641421,1.0000001

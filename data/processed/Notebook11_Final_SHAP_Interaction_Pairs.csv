@@ -1,0 +1,1082 @@
+Rank,Feature_1,Feature_2,Mean_Absolute_SHAP_Interaction
+1,CA_AVG,ATT_RATE,0.05490474
+2,Age_group,CLIN_AVG,0.0436586
+3,GPA_S1,Sleep difficulty,0.040012684
+4,LAB_AVG,EXAM_AVG,0.039352853
+5,GPA_S1,CLIN_AVG,0.036457174
+6,ATT_RATE,Employment_hrs,0.03615981
+7,GPA_S1,Can improve performance,0.030187532
+8,GPA_S1,EXAM_AVG,0.02999202
+9,GPA_S1,Sleep_hrs,0.029506268
+10,CA_AVG,Seeks help when stuck,0.02862271
+11,GPA_S1,Seeks help when stuck,0.027417088
+12,Manages time effectively,Physical health affected,0.026257493
+13,ATT_RATE,Hopeless/unmotivated,0.02563076
+14,Sleep_hrs,EXAM_AVG,0.02391977
+15,LAB_AVG,Persists when difficult,0.022904256
+16,Age_group,EXAM_AVG,0.022673968
+17,CA_AVG,Peer study groups effective,0.022528991
+18,GPA_S1,LAB_AVG,0.022448467
+19,CLIN_AVG,Persists when difficult,0.022374606
+20,GPA_S1,Understands content pre-exam,0.022126855
+21,Takes rest breaks,Health interferes studies,0.021923257
+22,Self_risk_percep,EXAM_AVG,0.021622278
+23,Age_group,Hopeless/unmotivated,0.021353083
+24,Age_group,Lecturers approachable,0.021193996
+25,CLIN_AVG,Takes rest breaks,0.020857865
+26,GPA_S1,ATT_RATE,0.02066936
+27,Persists when difficult,Understands content pre-exam,0.020355767
+28,LAB_AVG,Takes organised notes,0.019556776
+29,ATT_RATE,Burnt out,0.019383835
+30,CA_AVG,Concentration in self-study,0.019261234
+31,GPA_S1,Financial_diff,0.01908059
+32,LAB_AVG,ATT_RATE,0.018922567
+33,Sleep affects concentration,EXAM_AVG,0.018723879
+34,Study_hrs_day,Sense of belonging,0.01860475
+35,GPA_S1,Manages time effectively,0.018154237
+36,GPA_S1,Self-motivates,0.017874941
+37,Programme prepares for career,Anxious about assessments,0.017774513
+38,LAB_AVG,Completes readings,0.017734643
+39,Sleep_hrs,Sleep affects concentration,0.01753458
+40,Sleep_hrs,Concentration in self-study,0.01731298
+41,GPA_S1,Concentration in self-study,0.017164458
+42,GPA_S1,Age_group,0.017014489
+43,LAB_AVG,Sleep_hrs,0.016918182
+44,Peer study groups effective,Clinical takes study time,0.016479371
+45,CA_AVG,Self_risk_percep,0.016384473
+46,GPA_S1,CA_AVG,0.016379362
+47,GPA_S1,Takes rest breaks,0.016217008
+48,Self_risk_percep,ATT_RATE,0.016195396
+49,GPA_S1,Persists when difficult,0.01615159
+50,Study_hrs_day,Manages time effectively,0.016105277
+51,CLIN_AVG,CA_AVG,0.016055014
+52,Concentration in self-study,Sense of belonging,0.01605343
+53,Programme prepares for career,Concentration in self-study,0.01597885
+54,Adequate supervision,ATT_RATE,0.015800616
+55,LAB_AVG,CA_AVG,0.01573915
+56,Programme prepares for career,Burnt out,0.015530719
+57,Study_hrs_day,Hopeless/unmotivated,0.015283506
+58,GPA_S1,Adequate supervision,0.015120965
+59,Sleep affects concentration,Understands content pre-exam,0.014760935
+60,Sleep_hrs,Physical health affected,0.014524241
+61,ATT_RATE,Seeks help when stuck,0.014426556
+62,LAB_AVG,Sense of belonging,0.014346537
+63,Age_group,Self-motivates,0.01430707
+64,CA_AVG,Hopeless/unmotivated,0.014162217
+65,Peer study groups effective,EXAM_AVG,0.014156506
+66,Sleep_hrs,Seeks help when stuck,0.014127775
+67,Hopeless/unmotivated,Clinical takes study time,0.014054166
+68,CLIN_AVG,EXAM_AVG,0.013773626
+69,Concentration in self-study,Seeks help when stuck,0.013659499
+70,Self-motivates,EXAM_AVG,0.0127650825
+71,Age_group,Employment_hrs,0.0124668535
+72,Clinical takes study time,Rotations affect performance,0.012429719
+73,Manages time effectively,Persists when difficult,0.01241061
+74,Self_risk_percep,Peer study groups effective,0.0123968925
+75,Persists when difficult,Health interferes studies,0.012339978
+76,Concentration in self-study,Participates in clubs,0.012240097
+77,GPA_S1,Gender,0.012214807
+78,Study_hrs_day,Confident in clinical skills,0.012173628
+79,Adequate supervision,Takes organised notes,0.012045354
+80,Sense of belonging,Regular exercise,0.012018374
+81,Self-motivates,Programme prepares for career,0.011939547
+82,CA_AVG,Anxious about assessments,0.011921689
+83,Study_hrs_day,CA_AVG,0.0118482625
+84,Sleep_hrs,Financial_diff,0.011829087
+85,Financial_diff,Self_risk_percep,0.011822118
+86,Financial_diff,Sense of belonging,0.011763023
+87,Manages time effectively,ATT_RATE,0.01175874
+88,Takes rest breaks,Early intervention provided,0.011729915
+89,Programme prepares for career,Physical health affected,0.011627129
+90,Self-motivates,Reviews notes within 24h,0.0114440285
+91,Takes rest breaks,Regular exercise,0.011431895
+92,CLIN_AVG,ATT_RATE,0.011228164
+93,GPA_S1,Uses library regularly,0.011215928
+94,Age_group,Rotations affect performance,0.011183489
+95,ATT_RATE,Prepared for clinical assess,0.011043815
+96,GPA_S1,Sense of belonging,0.010832563
+97,Hopeless/unmotivated,Reviews notes within 24h,0.010584359
+98,LAB_AVG,CLIN_AVG,0.010534035
+99,LAB_AVG,Manages time effectively,0.010447619
+100,Seeks help when stuck,EXAM_AVG,0.010407697
+101,Age_group,Gender,0.010398295
+102,Financial_diff,Hopeless/unmotivated,0.010223005
+103,GPA_S1,Physical health affected,0.0100672925
+104,EXAM_AVG,Can improve performance,0.010057683
+105,LAB_AVG,Clinical takes study time,0.010048922
+106,CA_AVG,EXAM_AVG,0.009967397
+107,LAB_AVG,Sleep affects concentration,0.009950159
+108,GPA_S1,Participates in clubs,0.009848552
+109,CLIN_AVG,Sleep affects concentration,0.009820259
+110,CLIN_AVG,Sleep difficulty,0.009733871
+111,Adequate supervision,Persists when difficult,0.0096229855
+112,Study_hrs_day,EXAM_AVG,0.009569717
+113,Takes rest breaks,Manages time effectively,0.00954853
+114,Lecturers approachable,Sleep difficulty,0.0095419595
+115,Programme prepares for career,Considered break,0.009534073
+116,Financial_diff,CA_AVG,0.0095175635
+117,CA_AVG,Completes readings,0.009399352
+118,Peer study groups effective,Hopeless/unmotivated,0.009381929
+119,Age_group,Self_risk_percep,0.009380759
+120,Physical health affected,EXAM_AVG,0.00934828
+121,CLIN_AVG,Considered break,0.009333124
+122,GPA_S1,Considered break,0.009332858
+123,Lecturers approachable,Sense of belonging,0.009265943
+124,CLIN_AVG,Completes readings,0.009174643
+125,LAB_AVG,Self-motivates,0.009156764
+126,CLIN_AVG,Confident in clinical skills,0.009107932
+127,Age_group,Persists when difficult,0.008995457
+128,Manages time effectively,Regular exercise,0.008956794
+129,CA_AVG,Understands content pre-exam,0.008956261
+130,Can improve performance,Understands content pre-exam,0.008911388
+131,Takes rest breaks,Employment_hrs,0.008872243
+132,CLIN_AVG,Hopeless/unmotivated,0.008781424
+133,Self-motivates,CA_AVG,0.00878053
+134,Takes rest breaks,Understands content pre-exam,0.008778692
+135,CLIN_AVG,Self_risk_percep,0.008761243
+136,Study_hrs_day,ATT_RATE,0.008612944
+137,GPA_S1,Study_hrs_day,0.008609393
+138,Anxious about assessments,Confident to complete prog,0.008564177
+139,Programme prepares for career,Financial_diff,0.008546053
+140,Takes rest breaks,Reviews notes within 24h,0.008483232
+141,Physical health affected,Sense of belonging,0.008464988
+142,Age_group,Adequate supervision,0.008432769
+143,CLIN_AVG,Sleep_hrs,0.008349019
+144,Physical health affected,Early intervention provided,0.008315269
+145,GPA_S1,Takes organised notes,0.008305754
+146,Financial_diff,Reviews notes within 24h,0.008244809
+147,Manages time effectively,Understands content pre-exam,0.008236587
+148,Seeks help when stuck,Prepared for clinical assess,0.00822809
+149,Adequate supervision,Hopeless/unmotivated,0.008207471
+150,Programme prepares for career,Persists when difficult,0.00816202
+151,Manages time effectively,Uses library regularly,0.008069461
+152,LAB_AVG,Adequate supervision,0.008051814
+153,Concentration in self-study,Lecturers approachable,0.008029503
+154,Programme prepares for career,Sense of belonging,0.008016317
+155,CLIN_AVG,Early intervention provided,0.007980913
+156,GPA_S1,Sleep affects concentration,0.007960611
+157,LAB_AVG,Early intervention provided,0.0079557
+158,ATT_RATE,Regular exercise,0.007946324
+159,ATT_RATE,EXAM_AVG,0.007935024
+160,Adequate supervision,Takes rest breaks,0.00789953
+161,GPA_S1,Programme prepares for career,0.0078001814
+162,CLIN_AVG,Participates in clubs,0.007787805
+163,CA_AVG,Participates in clubs,0.0077319443
+164,Adequate supervision,Gender,0.0077111265
+165,LAB_AVG,Sleep difficulty,0.007616779
+166,Self_risk_percep,Prepared for clinical assess,0.0075812275
+167,Sleep_hrs,Uses library regularly,0.0074908603
+168,Age_group,Programme prepares for career,0.007465188
+169,Employment_hrs,Participates in clubs,0.0074605825
+170,ATT_RATE,Rotations affect performance,0.0073164357
+171,Sense of belonging,Sleep difficulty,0.0072913864
+172,Health interferes studies,Regular exercise,0.0072759236
+173,Age_group,Takes organised notes,0.0072294334
+174,Sleep_hrs,Lecturers approachable,0.0071132923
+175,Sense of belonging,Participates in clubs,0.0070554633
+176,GPA_S1,Self_risk_percep,0.0070537794
+177,Physical health affected,Burnt out,0.0070493715
+178,Lecturers approachable,Regular exercise,0.0070018093
+179,Lecturers approachable,Peer study groups effective,0.006972623
+180,Programme prepares for career,Can improve performance,0.0069685476
+181,CA_AVG,Reviews notes within 24h,0.006801345
+182,Sleep_hrs,Programme prepares for career,0.0068004187
+183,Self-motivates,Persists when difficult,0.0067384546
+184,Seeks help when stuck,Completes readings,0.0067164716
+185,Concentration in self-study,Early intervention provided,0.006716009
+186,LAB_AVG,Regular exercise,0.0067031765
+187,CLIN_AVG,Physical health affected,0.0067018853
+188,Takes rest breaks,Physical health affected,0.0066996184
+189,GPA_S1,Clinical takes study time,0.0066982177
+190,Sleep_hrs,Sense of belonging,0.0066866637
+191,LAB_AVG,Anxious about assessments,0.006679846
+192,CLIN_AVG,Peer study groups effective,0.0066573923
+193,Can improve performance,Participates in clubs,0.006618583
+194,Sleep affects concentration,Confident to complete prog,0.006609179
+195,Adequate supervision,Sleep affects concentration,0.00658108
+196,Takes rest breaks,Burnt out,0.0065522706
+197,GPA_S1,Confident in clinical skills,0.0064992653
+198,Hopeless/unmotivated,Sense of belonging,0.0064903647
+199,Sleep_hrs,Persists when difficult,0.006481036
+200,GPA_S1,Early intervention provided,0.0064537823
+201,EXAM_AVG,Clinical takes study time,0.0064361277
+202,Study_hrs_day,Sleep affects concentration,0.006397903
+203,Physical health affected,Health interferes studies,0.0063917283
+204,GPA_S1,Anxious about assessments,0.006388875
+205,Sleep affects concentration,Rotations affect performance,0.00628194
+206,Adequate supervision,Confident to complete prog,0.0062695476
+207,CA_AVG,Physical health affected,0.0062351814
+208,Age_group,Peer study groups effective,0.006231072
+209,Adequate supervision,Lecturers approachable,0.006212354
+210,Seeks help when stuck,Uses library regularly,0.006208448
+211,CA_AVG,Persists when difficult,0.0061854394
+212,Age_group,LAB_AVG,0.0061243623
+213,Clinical takes study time,Anxious about assessments,0.0061088675
+214,Takes rest breaks,Self_risk_percep,0.006077421
+215,Can improve performance,Anxious about assessments,0.005995939
+216,Age_group,ATT_RATE,0.0059698354
+217,Age_group,Participates in clubs,0.0059626387
+218,Clinical takes study time,Can improve performance,0.005958961
+219,CLIN_AVG,Regular exercise,0.0059581636
+220,Early intervention provided,Sleep difficulty,0.005955826
+221,Study_hrs_day,Sleep_hrs,0.0059498996
+222,Hopeless/unmotivated,Early intervention provided,0.0058800397
+223,Manages time effectively,Burnt out,0.0058799707
+224,EXAM_AVG,Completes readings,0.0058428287
+225,Sleep_hrs,Can improve performance,0.005839402
+226,CA_AVG,Takes rest breaks,0.0058138887
+227,Self-motivates,Early intervention provided,0.005813176
+228,Programme prepares for career,Peer study groups effective,0.005801795
+229,Gender,Sleep difficulty,0.005801589
+230,EXAM_AVG,Anxious about assessments,0.0057641016
+231,LAB_AVG,Considered break,0.005739162
+232,Self-motivates,Physical health affected,0.0057132924
+233,Age_group,Takes rest breaks,0.005697747
+234,Study_hrs_day,Adequate supervision,0.005684417
+235,Seeks help when stuck,Gender,0.0056787394
+236,CLIN_AVG,Seeks help when stuck,0.0056648515
+237,Sleep_hrs,Understands content pre-exam,0.005623691
+238,Adequate supervision,Sleep difficulty,0.0055817585
+239,LAB_AVG,Takes rest breaks,0.0055544255
+240,Financial_diff,Regular exercise,0.005548171
+241,Study_hrs_day,Concentration in self-study,0.0055295224
+242,Adequate supervision,Seeks help when stuck,0.005517315
+243,Persists when difficult,ATT_RATE,0.005507294
+244,Self_risk_percep,Seeks help when stuck,0.0054972083
+245,Takes rest breaks,Participates in clubs,0.005482173
+246,EXAM_AVG,Health interferes studies,0.0054336893
+247,Age_group,Sleep_hrs,0.005388067
+248,LAB_AVG,Confident in clinical skills,0.005386242
+249,CLIN_AVG,Study_hrs_day,0.005367304
+250,Concentration in self-study,Understands content pre-exam,0.0053403825
+251,Age_group,Physical health affected,0.0053214887
+252,Concentration in self-study,Clinical takes study time,0.0053157373
+253,GPA_S1,Health interferes studies,0.005306439
+254,Concentration in self-study,Gender,0.005300032
+255,Self_risk_percep,Sense of belonging,0.0052731372
+256,Peer study groups effective,Seeks help when stuck,0.0052714455
+257,ATT_RATE,Clinical takes study time,0.005203551
+258,Age_group,Considered break,0.0051999995
+259,Gender,Confident to complete prog,0.0051868297
+260,LAB_AVG,Hopeless/unmotivated,0.005145729
+261,Programme prepares for career,Self_risk_percep,0.005100142
+262,Takes rest breaks,Completes readings,0.005095263
+263,LAB_AVG,Financial_diff,0.0050815484
+264,Health interferes studies,Reviews notes within 24h,0.0050675464
+265,Self-motivates,ATT_RATE,0.005049953
+266,Confident to complete prog,Uses library regularly,0.0050247186
+267,Burnt out,Confident in clinical skills,0.0050145844
+268,Financial_diff,Clinical takes study time,0.0049988367
+269,Health interferes studies,Employment_hrs,0.0049964534
+270,CLIN_AVG,Self-motivates,0.0049848254
+271,Study_hrs_day,Prepared for clinical assess,0.004975056
+272,CLIN_AVG,Financial_diff,0.0049667265
+273,Financial_diff,Confident to complete prog,0.004948821
+274,Programme prepares for career,Participates in clubs,0.0049208733
+275,Programme prepares for career,Manages time effectively,0.0048923907
+276,ATT_RATE,Sleep difficulty,0.004889682
+277,CA_AVG,Confident to complete prog,0.004886612
+278,LAB_AVG,Peer study groups effective,0.0048704403
+279,Takes rest breaks,ATT_RATE,0.0048329383
+280,ATT_RATE,Health interferes studies,0.0048271785
+281,Physical health affected,Can improve performance,0.004821175
+282,CA_AVG,Early intervention provided,0.0048059598
+283,Regular exercise,Reviews notes within 24h,0.004798121
+284,Peer study groups effective,Gender,0.004794569
+285,CLIN_AVG,Prepared for clinical assess,0.0047907904
+286,Study_hrs_day,Self-motivates,0.0047708424
+287,Age_group,Clinical takes study time,0.004764032
+288,GPA_S1,Peer study groups effective,0.004761778
+289,Sleep_hrs,Takes rest breaks,0.004740005
+290,Hopeless/unmotivated,Rotations affect performance,0.004733368
+291,Study_hrs_day,Takes rest breaks,0.0047122194
+292,CLIN_AVG,Takes organised notes,0.004705721
+293,ATT_RATE,Gender,0.004704432
+294,Clinical takes study time,Understands content pre-exam,0.004666966
+295,Lecturers approachable,Prepared for clinical assess,0.0046659335
+296,Sleep_hrs,Reviews notes within 24h,0.0046455488
+297,Persists when difficult,Prepared for clinical assess,0.004609032
+298,Adequate supervision,Uses library regularly,0.004606708
+299,Financial_diff,ATT_RATE,0.0045997184
+300,CA_AVG,Confident in clinical skills,0.0045798323
+301,Adequate supervision,Physical health affected,0.004577896
+302,Programme prepares for career,Rotations affect performance,0.0045717494
+303,Age_group,CA_AVG,0.0045592673
+304,CLIN_AVG,Health interferes studies,0.0045572156
+305,Seeks help when stuck,Sense of belonging,0.004553155
+306,CLIN_AVG,Adequate supervision,0.0045078276
+307,Seeks help when stuck,Burnt out,0.004499001
+308,Sleep_hrs,Self_risk_percep,0.004467305
+309,Self_risk_percep,Confident in clinical skills,0.0044043795
+310,CA_AVG,Can improve performance,0.0043976265
+311,Peer study groups effective,Confident to complete prog,0.004380761
+312,Financial_diff,Anxious about assessments,0.004369988
+313,Sleep affects concentration,Sleep difficulty,0.004366077
+314,Age_group,Health interferes studies,0.0043364456
+315,LAB_AVG,Seeks help when stuck,0.004323944
+316,Early intervention provided,Reviews notes within 24h,0.0043120603
+317,GPA_S1,Hopeless/unmotivated,0.0042673894
+318,Lecturers approachable,Self_risk_percep,0.004261116
+319,Self-motivates,Lecturers approachable,0.004254042
+320,LAB_AVG,Study_hrs_day,0.004236944
+321,Programme prepares for career,Lecturers approachable,0.0042256853
+322,CLIN_AVG,Gender,0.004189486
+323,LAB_AVG,Lecturers approachable,0.0041863904
+324,EXAM_AVG,Considered break,0.004178423
+325,Self-motivates,Participates in clubs,0.004176862
+326,ATT_RATE,Confident to complete prog,0.004097372
+327,CLIN_AVG,Lecturers approachable,0.0040877033
+328,Programme prepares for career,Understands content pre-exam,0.0040589967
+329,Sleep affects concentration,Clinical takes study time,0.004048841
+330,Sleep_hrs,Confident to complete prog,0.0040395116
+331,Burnt out,Considered break,0.004032201
+332,Physical health affected,ATT_RATE,0.0040282034
+333,Study_hrs_day,Considered break,0.0040273005
+334,Manages time effectively,Rotations affect performance,0.0040057823
+335,Sleep_hrs,CA_AVG,0.00399343
+336,Physical health affected,Lecturers approachable,0.003971979
+337,GPA_S1,Prepared for clinical assess,0.003971205
+338,Manages time effectively,Clinical takes study time,0.003955814
+339,Concentration in self-study,Employment_hrs,0.0039120913
+340,CA_AVG,Health interferes studies,0.00390085
+341,GPA_S1,Employment_hrs,0.0038918513
+342,Self_risk_percep,Clinical takes study time,0.0038651775
+343,Seeks help when stuck,Can improve performance,0.003861852
+344,Concentration in self-study,Considered break,0.0038588934
+345,CLIN_AVG,Programme prepares for career,0.0038289952
+346,Sleep_hrs,Gender,0.0038048597
+347,Concentration in self-study,Physical health affected,0.0037914077
+348,Sleep difficulty,Reviews notes within 24h,0.003786012
+349,Study_hrs_day,Financial_diff,0.0037697786
+350,Lecturers approachable,Employment_hrs,0.003766585
+351,LAB_AVG,Uses library regularly,0.0037502078
+352,Self-motivates,Clinical takes study time,0.0037464665
+353,Age_group,Financial_diff,0.0037443116
+354,Age_group,Sense of belonging,0.0037342922
+355,Takes rest breaks,Confident to complete prog,0.0037326058
+356,Study_hrs_day,Understands content pre-exam,0.003725324
+357,Peer study groups effective,Participates in clubs,0.0037212614
+358,ATT_RATE,Early intervention provided,0.0037204563
+359,LAB_AVG,Physical health affected,0.0036942824
+360,Takes rest breaks,Clinical takes study time,0.0036929208
+361,Sense of belonging,Early intervention provided,0.0036818746
+362,Physical health affected,Completes readings,0.003671205
+363,Study_hrs_day,Clinical takes study time,0.003639472
+364,Adequate supervision,Manages time effectively,0.0036244718
+365,Age_group,Sleep affects concentration,0.0036210956
+366,Self_risk_percep,Completes readings,0.0036208532
+367,GPA_S1,Reviews notes within 24h,0.0036172064
+368,Concentration in self-study,Reviews notes within 24h,0.0036108212
+369,CA_AVG,Clinical takes study time,0.0036004018
+370,Study_hrs_day,Anxious about assessments,0.003583351
+371,Financial_diff,Sleep affects concentration,0.0035817286
+372,ATT_RATE,Completes readings,0.0035655734
+373,Financial_diff,Burnt out,0.0035454966
+374,Programme prepares for career,Hopeless/unmotivated,0.0035250676
+375,EXAM_AVG,Employment_hrs,0.0035246876
+376,Age_group,Completes readings,0.0035193525
+377,Self-motivates,Confident to complete prog,0.003471719
+378,Lecturers approachable,EXAM_AVG,0.003468434
+379,Lecturers approachable,Can improve performance,0.0034640597
+380,Study_hrs_day,Rotations affect performance,0.0034440432
+381,Seeks help when stuck,Regular exercise,0.003442156
+382,Study_hrs_day,Can improve performance,0.0034388537
+383,CA_AVG,Sleep affects concentration,0.0034075454
+384,Study_hrs_day,Seeks help when stuck,0.0034048054
+385,CLIN_AVG,Manages time effectively,0.00340306
+386,GPA_S1,Confident to complete prog,0.0033992373
+387,Adequate supervision,EXAM_AVG,0.0033605625
+388,EXAM_AVG,Rotations affect performance,0.0033558488
+389,LAB_AVG,Concentration in self-study,0.0033464718
+390,Self_risk_percep,Hopeless/unmotivated,0.003336141
+391,ATT_RATE,Understands content pre-exam,0.0033298335
+392,Self-motivates,Financial_diff,0.0033187838
+393,Hopeless/unmotivated,Understands content pre-exam,0.0033021343
+394,Physical health affected,Self_risk_percep,0.0032952547
+395,Adequate supervision,Self-motivates,0.0032801942
+396,Self_risk_percep,Can improve performance,0.0032768634
+397,Physical health affected,Regular exercise,0.0032363296
+398,Age_group,Seeks help when stuck,0.0032325527
+399,Self-motivates,Regular exercise,0.0032218199
+400,EXAM_AVG,Confident to complete prog,0.003212747
+401,EXAM_AVG,Participates in clubs,0.0032053182
+402,CA_AVG,Sense of belonging,0.003202376
+403,Concentration in self-study,Confident to complete prog,0.003202099
+404,Self_risk_percep,Reviews notes within 24h,0.003197276
+405,Employment_hrs,Takes organised notes,0.0031700355
+406,Persists when difficult,Clinical takes study time,0.0031641494
+407,Sleep_hrs,ASSIGN_LATE,0.0031465658
+408,Adequate supervision,Prepared for clinical assess,0.0031393832
+409,Sleep affects concentration,Reviews notes within 24h,0.0031330546
+410,Sleep_hrs,ATT_RATE,0.0031313826
+411,Manages time effectively,EXAM_AVG,0.0031181548
+412,Programme prepares for career,Sleep affects concentration,0.0031174899
+413,Study_hrs_day,Peer study groups effective,0.0031126235
+414,LAB_AVG,Prepared for clinical assess,0.0031095354
+415,Persists when difficult,Considered break,0.003108825
+416,Sleep affects concentration,Early intervention provided,0.0031048725
+417,CA_AVG,Employment_hrs,0.0030584258
+418,CA_AVG,Burnt out,0.0030459308
+419,Study_hrs_day,Physical health affected,0.0030283425
+420,Financial_diff,Physical health affected,0.0030247367
+421,Sense of belonging,Confident in clinical skills,0.0030211348
+422,Adequate supervision,Programme prepares for career,0.003018293
+423,Age_group,Uses library regularly,0.0030177182
+424,GPA_S1,Lecturers approachable,0.0030140984
+425,Self_risk_percep,Gender,0.003013316
+426,Self-motivates,Hopeless/unmotivated,0.0030026466
+427,Sense of belonging,Reviews notes within 24h,0.003000708
+428,Programme prepares for career,ATT_RATE,0.0029998638
+429,Manages time effectively,Can improve performance,0.0029984603
+430,Takes rest breaks,Persists when difficult,0.0029873569
+431,Manages time effectively,Sleep affects concentration,0.0029800904
+432,Adequate supervision,Self_risk_percep,0.002976205
+433,Manages time effectively,Employment_hrs,0.0029631713
+434,Manages time effectively,Early intervention provided,0.0029516618
+435,Self-motivates,Uses library regularly,0.002949555
+436,Sleep affects concentration,Sense of belonging,0.0029451242
+437,EXAM_AVG,Confident in clinical skills,0.0029421044
+438,CLIN_AVG,Anxious about assessments,0.0029250132
+439,Completes readings,Employment_hrs,0.0029110962
+440,EXAM_AVG,Hopeless/unmotivated,0.0028943853
+441,Hopeless/unmotivated,Burnt out,0.0028940798
+442,EXAM_AVG,ASSIGN_LATE,0.0028883612
+443,Financial_diff,Understands content pre-exam,0.002887195
+444,Adequate supervision,Anxious about assessments,0.0028746554
+445,Financial_diff,EXAM_AVG,0.0028745541
+446,Self_risk_percep,Health interferes studies,0.0028652677
+447,Hopeless/unmotivated,Considered break,0.0028583342
+448,Age_group,Early intervention provided,0.0028530282
+449,ATT_RATE,Participates in clubs,0.002838072
+450,Physical health affected,Clinical takes study time,0.0028252874
+451,CLIN_AVG,Concentration in self-study,0.0028180794
+452,Financial_diff,Early intervention provided,0.002803991
+453,CA_AVG,Lecturers approachable,0.0027989526
+454,EXAM_AVG,Early intervention provided,0.0027916573
+455,Burnt out,Early intervention provided,0.0027746754
+456,Health interferes studies,ASSIGN_LATE,0.0027608282
+457,Age_group,Confident to complete prog,0.0027483597
+458,Manages time effectively,Participates in clubs,0.002715262
+459,Programme prepares for career,CA_AVG,0.002690173
+460,GPA_S1,Rotations affect performance,0.002684839
+461,LAB_AVG,Burnt out,0.0026814037
+462,Early intervention provided,Regular exercise,0.0026793573
+463,CA_AVG,Uses library regularly,0.0026741996
+464,Age_group,Reviews notes within 24h,0.0026644184
+465,Completes readings,Rotations affect performance,0.0026582566
+466,Programme prepares for career,EXAM_AVG,0.0026446776
+467,Completes readings,Participates in clubs,0.002643834
+468,Lecturers approachable,Health interferes studies,0.0026418793
+469,Takes rest breaks,Considered break,0.0026276328
+470,Physical health affected,Employment_hrs,0.0026224698
+471,Persists when difficult,ASSIGN_LATE,0.0026222195
+472,Persists when difficult,Can improve performance,0.0026209482
+473,Takes rest breaks,Hopeless/unmotivated,0.0026145387
+474,Financial_diff,Concentration in self-study,0.0026135712
+475,Uses library regularly,Prepared for clinical assess,0.0025984363
+476,Concentration in self-study,Persists when difficult,0.0025761437
+477,Early intervention provided,Confident to complete prog,0.0025700775
+478,Sense of belonging,Prepared for clinical assess,0.002557729
+479,Financial_diff,Employment_hrs,0.0025518732
+480,Persists when difficult,Hopeless/unmotivated,0.002541563
+481,Peer study groups effective,Rotations affect performance,0.002534639
+482,Anxious about assessments,Rotations affect performance,0.0025274488
+483,Seeks help when stuck,Employment_hrs,0.0025224201
+484,Peer study groups effective,Understands content pre-exam,0.0025222977
+485,Takes rest breaks,Sense of belonging,0.002521602
+486,EXAM_AVG,Reviews notes within 24h,0.0025209878
+487,Health interferes studies,Participates in clubs,0.002519495
+488,Self_risk_percep,Rotations affect performance,0.0025146957
+489,CA_AVG,Gender,0.0025114503
+490,Financial_diff,Takes rest breaks,0.0025049946
+491,Participates in clubs,Sleep difficulty,0.002500301
+492,Age_group,Concentration in self-study,0.002485076
+493,LAB_AVG,Understands content pre-exam,0.002483565
+494,Early intervention provided,Understands content pre-exam,0.0024790629
+495,Financial_diff,Takes organised notes,0.002465205
+496,Adequate supervision,Confident in clinical skills,0.0024575149
+497,Hopeless/unmotivated,Anxious about assessments,0.0024419043
+498,Health interferes studies,Understands content pre-exam,0.0024408465
+499,Health interferes studies,Prepared for clinical assess,0.0024386742
+500,Financial_diff,Seeks help when stuck,0.0024311873
+501,Concentration in self-study,Hopeless/unmotivated,0.0024291633
+502,Employment_hrs,Anxious about assessments,0.002417933
+503,Clinical takes study time,Early intervention provided,0.0024050167
+504,Persists when difficult,Regular exercise,0.0023946725
+505,Seeks help when stuck,Health interferes studies,0.0023942322
+506,Participates in clubs,Rotations affect performance,0.0023731317
+507,Self_risk_percep,Early intervention provided,0.0023583795
+508,GPA_S1,Regular exercise,0.0023467175
+509,Takes rest breaks,Peer study groups effective,0.0023397584
+510,LAB_AVG,Health interferes studies,0.0023327242
+511,EXAM_AVG,Understands content pre-exam,0.002329274
+512,Adequate supervision,Burnt out,0.0022907008
+513,Financial_diff,Completes readings,0.0022731782
+514,Sense of belonging,Gender,0.0022547331
+515,Clinical takes study time,Employment_hrs,0.0022441356
+516,Age_group,Sleep difficulty,0.0022259755
+517,Lecturers approachable,Sleep affects concentration,0.0022251077
+518,Concentration in self-study,ATT_RATE,0.0022230393
+519,Manages time effectively,Sense of belonging,0.002217969
+520,Concentration in self-study,EXAM_AVG,0.0021961988
+521,LAB_AVG,Self_risk_percep,0.00219496
+522,Sleep affects concentration,Considered break,0.0021849093
+523,Takes rest breaks,EXAM_AVG,0.0021704528
+524,Regular exercise,Uses library regularly,0.0021693932
+525,Persists when difficult,Gender,0.0021593347
+526,ATT_RATE,Can improve performance,0.002159073
+527,Study_hrs_day,Reviews notes within 24h,0.00215315
+528,Takes organised notes,Reviews notes within 24h,0.0021514767
+529,Burnt out,Regular exercise,0.00213882
+530,Regular exercise,Confident to complete prog,0.0021348705
+531,Physical health affected,Hopeless/unmotivated,0.0021268474
+532,LAB_AVG,Gender,0.0021227882
+533,Physical health affected,Confident in clinical skills,0.0021125907
+534,ATT_RATE,Sense of belonging,0.0021053832
+535,Can improve performance,Considered break,0.002095106
+536,CLIN_AVG,Sense of belonging,0.0020948763
+537,EXAM_AVG,Sleep difficulty,0.0020866466
+538,Sleep affects concentration,Takes organised notes,0.0020848378
+539,GPA_S1,Burnt out,0.0020701748
+540,Adequate supervision,CA_AVG,0.0020678793
+541,CLIN_AVG,Clinical takes study time,0.0020678083
+542,Seeks help when stuck,Sleep difficulty,0.0020667282
+543,ATT_RATE,Uses library regularly,0.0020498647
+544,Participates in clubs,ASSIGN_LATE,0.0020449397
+545,Takes rest breaks,Sleep difficulty,0.0020245619
+546,Persists when difficult,Early intervention provided,0.0020216524
+547,Study_hrs_day,Burnt out,0.0020209255
+548,Can improve performance,Employment_hrs,0.002013696
+549,Physical health affected,Uses library regularly,0.0020021934
+550,Sleep_hrs,Employment_hrs,0.0019974692
+551,Sleep_hrs,Adequate supervision,0.0019963558
+552,Age_group,Can improve performance,0.0019899043
+553,Sleep affects concentration,Peer study groups effective,0.001988936
+554,Programme prepares for career,Employment_hrs,0.0019864829
+555,Self-motivates,Sense of belonging,0.0019852594
+556,Early intervention provided,Prepared for clinical assess,0.0019833667
+557,Confident to complete prog,Sleep difficulty,0.001976209
+558,Completes readings,Confident to complete prog,0.0019641889
+559,Sleep_hrs,Health interferes studies,0.0019546445
+560,Financial_diff,Confident in clinical skills,0.0019373968
+561,Financial_diff,Lecturers approachable,0.0019238066
+562,CLIN_AVG,Burnt out,0.0019166574
+563,Understands content pre-exam,Sleep difficulty,0.0019012429
+564,Hopeless/unmotivated,Prepared for clinical assess,0.00188981
+565,Takes rest breaks,Sleep affects concentration,0.0018844282
+566,Lecturers approachable,Clinical takes study time,0.001875654
+567,Persists when difficult,Sleep affects concentration,0.0018734644
+568,Study_hrs_day,Participates in clubs,0.0018630471
+569,Age_group,Anxious about assessments,0.0018495291
+570,Self-motivates,Takes organised notes,0.001838477
+571,Hopeless/unmotivated,Uses library regularly,0.0018372177
+572,LAB_AVG,Reviews notes within 24h,0.0018371542
+573,Burnt out,Anxious about assessments,0.0018325017
+574,EXAM_AVG,Takes organised notes,0.0018141429
+575,Completes readings,Anxious about assessments,0.0018085464
+576,Gender,Completes readings,0.0018034956
+577,LAB_AVG,Can improve performance,0.0018030414
+578,Burnt out,Health interferes studies,0.0017974891
+579,Employment_hrs,Confident to complete prog,0.0017963735
+580,Burnt out,Prepared for clinical assess,0.0017796963
+581,Concentration in self-study,Can improve performance,0.0017790381
+582,Lecturers approachable,Completes readings,0.001774197
+583,CA_AVG,Considered break,0.0017731119
+584,CLIN_AVG,Confident to complete prog,0.0017722389
+585,Lecturers approachable,Considered break,0.0017706432
+586,Sleep affects concentration,Participates in clubs,0.0017653065
+587,Seeks help when stuck,Rotations affect performance,0.0017422093
+588,Seeks help when stuck,Early intervention provided,0.0017371129
+589,ATT_RATE,Reviews notes within 24h,0.0017318575
+590,Financial_diff,Uses library regularly,0.0017204343
+591,Self-motivates,Rotations affect performance,0.0017199995
+592,Sleep affects concentration,Uses library regularly,0.001718401
+593,Confident in clinical skills,Prepared for clinical assess,0.0017170275
+594,Programme prepares for career,ASSIGN_LATE,0.0017115822
+595,Takes rest breaks,Seeks help when stuck,0.0017037424
+596,Sleep_hrs,Regular exercise,0.0017019644
+597,Sleep_hrs,Rotations affect performance,0.0016999772
+598,Self-motivates,Self_risk_percep,0.0016918854
+599,Self-motivates,Concentration in self-study,0.0016621096
+600,CLIN_AVG,Rotations affect performance,0.0016472972
+601,CA_AVG,Regular exercise,0.0016459643
+602,Age_group,Prepared for clinical assess,0.001644227
+603,Study_hrs_day,Programme prepares for career,0.0016275693
+604,Burnt out,Employment_hrs,0.0016164324
+605,Adequate supervision,Early intervention provided,0.0016103663
+606,Lecturers approachable,Hopeless/unmotivated,0.0016073436
+607,Confident in clinical skills,Understands content pre-exam,0.0015934468
+608,Financial_diff,Manages time effectively,0.0015896923
+609,Adequate supervision,Financial_diff,0.0015885412
+610,Completes readings,Uses library regularly,0.0015834307
+611,Physical health affected,Sleep affects concentration,0.0015805605
+612,Clinical takes study time,Uses library regularly,0.0015569757
+613,Confident in clinical skills,Sleep difficulty,0.0015560441
+614,CLIN_AVG,Can improve performance,0.0015552673
+615,Participates in clubs,Reviews notes within 24h,0.0015441498
+616,ATT_RATE,Sleep affects concentration,0.0015272398
+617,Manages time effectively,Reviews notes within 24h,0.0015264273
+618,Self_risk_percep,Sleep affects concentration,0.0015258796
+619,Clinical takes study time,Confident to complete prog,0.0015205931
+620,Sleep affects concentration,Prepared for clinical assess,0.0015164299
+621,CLIN_AVG,Understands content pre-exam,0.0015154661
+622,Concentration in self-study,Sleep affects concentration,0.001514318
+623,Seeks help when stuck,Participates in clubs,0.0015026769
+624,CLIN_AVG,Employment_hrs,0.0014943208
+625,Sleep affects concentration,Seeks help when stuck,0.0014849664
+626,Sleep_hrs,Clinical takes study time,0.0014571568
+627,Gender,Burnt out,0.0014562474
+628,Financial_diff,Persists when difficult,0.0014463438
+629,LAB_AVG,Participates in clubs,0.001443021
+630,Study_hrs_day,Early intervention provided,0.0014393964
+631,Self-motivates,Can improve performance,0.0014332054
+632,Adequate supervision,Peer study groups effective,0.0014328558
+633,Sleep_hrs,Burnt out,0.0014245172
+634,Adequate supervision,Clinical takes study time,0.001417485
+635,Can improve performance,Reviews notes within 24h,0.0014119727
+636,Gender,Regular exercise,0.0014106347
+637,Uses library regularly,Sleep difficulty,0.0014070026
+638,EXAM_AVG,Regular exercise,0.0014012476
+639,Programme prepares for career,Regular exercise,0.0013913999
+640,LAB_AVG,ASSIGN_LATE,0.0013869851
+641,Adequate supervision,Concentration in self-study,0.0013698465
+642,Gender,Confident in clinical skills,0.0013684855
+643,Financial_diff,Participates in clubs,0.0013644764
+644,Concentration in self-study,Prepared for clinical assess,0.001363292
+645,LAB_AVG,Confident to complete prog,0.0013542129
+646,Concentration in self-study,Health interferes studies,0.0013502629
+647,Manages time effectively,Sleep difficulty,0.0013477599
+648,EXAM_AVG,Prepared for clinical assess,0.001332961
+649,Hopeless/unmotivated,Can improve performance,0.0013291626
+650,CLIN_AVG,Reviews notes within 24h,0.0013217784
+651,Sleep_hrs,Peer study groups effective,0.0013163176
+652,Can improve performance,Prepared for clinical assess,0.0013152362
+653,Regular exercise,Sleep difficulty,0.0013135459
+654,Adequate supervision,Understands content pre-exam,0.0012928314
+655,Self-motivates,Health interferes studies,0.0012788299
+656,Sleep_hrs,Hopeless/unmotivated,0.0012740758
+657,LAB_AVG,Programme prepares for career,0.0012733863
+658,Self_risk_percep,ASSIGN_LATE,0.0012731168
+659,Adequate supervision,Employment_hrs,0.0012710635
+660,Study_hrs_day,Uses library regularly,0.0012686935
+661,Manages time effectively,Health interferes studies,0.0012585899
+662,Persists when difficult,Lecturers approachable,0.0012334093
+663,Reviews notes within 24h,Rotations affect performance,0.0012302737
+664,CA_AVG,Manages time effectively,0.0012227169
+665,Financial_diff,Peer study groups effective,0.0012157657
+666,Employment_hrs,Confident in clinical skills,0.0011875805
+667,Health interferes studies,Rotations affect performance,0.0011847065
+668,CA_AVG,Prepared for clinical assess,0.0011711555
+669,Gender,Uses library regularly,0.0011672375
+670,Employment_hrs,Reviews notes within 24h,0.001150569
+671,Clinical takes study time,Health interferes studies,0.0011402171
+672,Sense of belonging,Understands content pre-exam,0.0011386996
+673,Takes organised notes,Uses library regularly,0.0011365825
+674,Sleep affects concentration,ASSIGN_LATE,0.001132882
+675,Burnt out,Clinical takes study time,0.0011297776
+676,Sleep affects concentration,Completes readings,0.0011285375
+677,Concentration in self-study,Regular exercise,0.0011251008
+678,Persists when difficult,Physical health affected,0.0011105912
+679,LAB_AVG,Employment_hrs,0.001105452
+680,Peer study groups effective,Burnt out,0.0011024129
+681,GPA_S1,Completes readings,0.0010873448
+682,Sleep affects concentration,Can improve performance,0.0010864721
+683,Clinical takes study time,Takes organised notes,0.0010792201
+684,Peer study groups effective,Prepared for clinical assess,0.0010767302
+685,Physical health affected,Takes organised notes,0.0010758563
+686,Adequate supervision,Can improve performance,0.0010735724
+687,Confident in clinical skills,Considered break,0.0010717065
+688,Self-motivates,Manages time effectively,0.0010682254
+689,Takes organised notes,Prepared for clinical assess,0.0010580592
+690,Completes readings,Regular exercise,0.0010557423
+691,Financial_diff,Considered break,0.0010381861
+692,Peer study groups effective,Early intervention provided,0.0010331081
+693,Considered break,Rotations affect performance,0.0010298324
+694,Sense of belonging,Employment_hrs,0.0010256146
+695,Self_risk_percep,Takes organised notes,0.0010231299
+696,Completes readings,ASSIGN_LATE,0.0010208694
+697,Takes rest breaks,ASSIGN_LATE,0.0010161684
+698,Burnt out,Uses library regularly,0.0010153486
+699,Study_hrs_day,Persists when difficult,0.0010101211
+700,Programme prepares for career,Health interferes studies,0.0009906229
+701,Self-motivates,Takes rest breaks,0.0009822878
+702,Self-motivates,Burnt out,0.0009738747
+703,Completes readings,Prepared for clinical assess,0.000971794
+704,Takes organised notes,Rotations affect performance,0.00096920267
+705,Manages time effectively,Self_risk_percep,0.0009685619
+706,Gender,Understands content pre-exam,0.0009680452
+707,Manages time effectively,Gender,0.0009678385
+708,Clinical takes study time,Considered break,0.0009414858
+709,Takes organised notes,Participates in clubs,0.00093106413
+710,Adequate supervision,Considered break,0.0009293926
+711,Anxious about assessments,Regular exercise,0.00092681363
+712,Lecturers approachable,Early intervention provided,0.00092540577
+713,Self-motivates,Seeks help when stuck,0.0009226859
+714,Clinical takes study time,Reviews notes within 24h,0.000894335
+715,Adequate supervision,Sense of belonging,0.000894212
+716,Anxious about assessments,Sleep difficulty,0.0008766501
+717,Can improve performance,Rotations affect performance,0.0008738735
+718,Peer study groups effective,Health interferes studies,0.00086245884
+719,Confident in clinical skills,Regular exercise,0.000860218
+720,Concentration in self-study,Manages time effectively,0.0008364328
+721,Adequate supervision,Regular exercise,0.00083642954
+722,Self_risk_percep,Regular exercise,0.0008295106
+723,Sleep affects concentration,Regular exercise,0.0008145668
+724,ATT_RATE,ASSIGN_LATE,0.0007984868
+725,Self-motivates,Sleep affects concentration,0.0007963052
+726,Peer study groups effective,ASSIGN_LATE,0.00079384743
+727,Can improve performance,Early intervention provided,0.00078352215
+728,Anxious about assessments,Reviews notes within 24h,0.000771106
+729,Manages time effectively,Confident in clinical skills,0.00077009294
+730,Manages time effectively,Anxious about assessments,0.00075648224
+731,Lecturers approachable,ATT_RATE,0.0006892638
+732,Early intervention provided,Rotations affect performance,0.0006888497
+733,ATT_RATE,Anxious about assessments,0.0006828399
+734,Peer study groups effective,Sense of belonging,0.0006631197
+735,Adequate supervision,Health interferes studies,0.00064746814
+736,Concentration in self-study,Self_risk_percep,0.0006085373
+737,Self-motivates,Gender,0.0
+738,Self_risk_percep,Sleep difficulty,0.0
+739,Self_risk_percep,Considered break,0.0
+740,Self_risk_percep,Uses library regularly,0.0
+741,Age_group,Burnt out,0.0
+742,Self_risk_percep,Anxious about assessments,0.0
+743,Self_risk_percep,Participates in clubs,0.0
+744,Self_risk_percep,Employment_hrs,0.0
+745,Self_risk_percep,Burnt out,0.0
+746,Lecturers approachable,ASSIGN_LATE,0.0
+747,Lecturers approachable,Rotations affect performance,0.0
+748,Lecturers approachable,Reviews notes within 24h,0.0
+749,Self-motivates,Sleep difficulty,0.0
+750,Self-motivates,Understands content pre-exam,0.0
+751,Self-motivates,Anxious about assessments,0.0
+752,Self-motivates,Confident in clinical skills,0.0
+753,ATT_RATE,Considered break,0.0
+754,ATT_RATE,Confident in clinical skills,0.0
+755,ATT_RATE,Takes organised notes,0.0
+756,ATT_RATE,Peer study groups effective,0.0
+757,Sleep affects concentration,Anxious about assessments,0.0
+758,CLIN_AVG,ASSIGN_LATE,0.0
+759,Self-motivates,Considered break,0.0
+760,Self-motivates,Prepared for clinical assess,0.0
+761,Age_group,ASSIGN_LATE,0.0
+762,Age_group,Understands content pre-exam,0.0
+763,Age_group,Regular exercise,0.0
+764,Self_risk_percep,Understands content pre-exam,0.0
+765,Self_risk_percep,Confident to complete prog,0.0
+766,Sleep affects concentration,Confident in clinical skills,0.0
+767,Sleep affects concentration,Employment_hrs,0.0
+768,Sleep affects concentration,Health interferes studies,0.0
+769,Sleep affects concentration,Burnt out,0.0
+770,Sleep affects concentration,Gender,0.0
+771,Sleep affects concentration,Hopeless/unmotivated,0.0
+772,Age_group,Confident in clinical skills,0.0
+773,Peer study groups effective,Completes readings,0.0
+774,Lecturers approachable,Anxious about assessments,0.0
+775,Lecturers approachable,Confident in clinical skills,0.0
+776,Lecturers approachable,Participates in clubs,0.0
+777,Lecturers approachable,Takes organised notes,0.0
+778,Lecturers approachable,Burnt out,0.0
+779,Lecturers approachable,Gender,0.0
+780,Lecturers approachable,Seeks help when stuck,0.0
+781,Study_hrs_day,Self_risk_percep,0.0
+782,Study_hrs_day,Lecturers approachable,0.0
+783,Self-motivates,Peer study groups effective,0.0
+784,Adequate supervision,ASSIGN_LATE,0.0
+785,Adequate supervision,Rotations affect performance,0.0
+786,Adequate supervision,Reviews notes within 24h,0.0
+787,Peer study groups effective,Reviews notes within 24h,0.0
+788,Peer study groups effective,Sleep difficulty,0.0
+789,Peer study groups effective,Considered break,0.0
+790,Peer study groups effective,Uses library regularly,0.0
+791,Peer study groups effective,Regular exercise,0.0
+792,Peer study groups effective,Anxious about assessments,0.0
+793,Peer study groups effective,Confident in clinical skills,0.0
+794,Peer study groups effective,Takes organised notes,0.0
+795,Peer study groups effective,Employment_hrs,0.0
+796,Peer study groups effective,Can improve performance,0.0
+797,Seeks help when stuck,Reviews notes within 24h,0.0
+798,Seeks help when stuck,Considered break,0.0
+799,Seeks help when stuck,Understands content pre-exam,0.0
+800,Seeks help when stuck,Confident to complete prog,0.0
+801,Seeks help when stuck,Anxious about assessments,0.0
+802,Seeks help when stuck,Confident in clinical skills,0.0
+803,Seeks help when stuck,Takes organised notes,0.0
+804,Seeks help when stuck,Clinical takes study time,0.0
+805,Seeks help when stuck,Hopeless/unmotivated,0.0
+806,EXAM_AVG,Sense of belonging,0.0
+807,Seeks help when stuck,ASSIGN_LATE,0.0
+808,Programme prepares for career,Completes readings,0.0
+809,Programme prepares for career,Gender,0.0
+810,Programme prepares for career,Seeks help when stuck,0.0
+811,Programme prepares for career,Takes rest breaks,0.0
+812,Self-motivates,ASSIGN_LATE,0.0
+813,Physical health affected,Rotations affect performance,0.0
+814,Physical health affected,Reviews notes within 24h,0.0
+815,Physical health affected,Sleep difficulty,0.0
+816,Physical health affected,Considered break,0.0
+817,Lecturers approachable,Uses library regularly,0.0
+818,Lecturers approachable,Understands content pre-exam,0.0
+819,Lecturers approachable,Confident to complete prog,0.0
+820,Physical health affected,Confident to complete prog,0.0
+821,Physical health affected,Anxious about assessments,0.0
+822,Physical health affected,Participates in clubs,0.0
+823,Physical health affected,Gender,0.0
+824,Physical health affected,Seeks help when stuck,0.0
+825,Physical health affected,Peer study groups effective,0.0
+826,Physical health affected,ASSIGN_LATE,0.0
+827,Programme prepares for career,Clinical takes study time,0.0
+828,Adequate supervision,Participates in clubs,0.0
+829,Adequate supervision,Completes readings,0.0
+830,Sleep_hrs,Sleep difficulty,0.0
+831,EXAM_AVG,Burnt out,0.0
+832,Age_group,Manages time effectively,0.0
+833,Age_group,Study_hrs_day,0.0
+834,EXAM_AVG,Gender,0.0
+835,Hopeless/unmotivated,Confident in clinical skills,0.0
+836,Hopeless/unmotivated,Participates in clubs,0.0
+837,Hopeless/unmotivated,Takes organised notes,0.0
+838,Persists when difficult,Uses library regularly,0.0
+839,Programme prepares for career,Reviews notes within 24h,0.0
+840,Programme prepares for career,Sleep difficulty,0.0
+841,Programme prepares for career,Prepared for clinical assess,0.0
+842,Programme prepares for career,Uses library regularly,0.0
+843,Programme prepares for career,Confident to complete prog,0.0
+844,Programme prepares for career,Confident in clinical skills,0.0
+845,Programme prepares for career,Early intervention provided,0.0
+846,Programme prepares for career,Takes organised notes,0.0
+847,Physical health affected,Prepared for clinical assess,0.0
+848,Physical health affected,Understands content pre-exam,0.0
+849,Hopeless/unmotivated,Employment_hrs,0.0
+850,Hopeless/unmotivated,Health interferes studies,0.0
+851,Hopeless/unmotivated,Completes readings,0.0
+852,Hopeless/unmotivated,Gender,0.0
+853,EXAM_AVG,Uses library regularly,0.0
+854,Sleep_hrs,Considered break,0.0
+855,Persists when difficult,Anxious about assessments,0.0
+856,Persists when difficult,Confident in clinical skills,0.0
+857,Persists when difficult,Participates in clubs,0.0
+858,Persists when difficult,Takes organised notes,0.0
+859,Persists when difficult,Employment_hrs,0.0
+860,Persists when difficult,Burnt out,0.0
+861,Persists when difficult,Completes readings,0.0
+862,Persists when difficult,Sense of belonging,0.0
+863,Persists when difficult,Rotations affect performance,0.0
+864,Persists when difficult,Reviews notes within 24h,0.0
+865,Persists when difficult,Sleep difficulty,0.0
+866,Study_hrs_day,Takes organised notes,0.0
+867,Study_hrs_day,Employment_hrs,0.0
+868,Study_hrs_day,Health interferes studies,0.0
+869,Study_hrs_day,Completes readings,0.0
+870,Study_hrs_day,Gender,0.0
+871,Sleep_hrs,Prepared for clinical assess,0.0
+872,Hopeless/unmotivated,Confident to complete prog,0.0
+873,Hopeless/unmotivated,Regular exercise,0.0
+874,Sense of belonging,Confident to complete prog,0.0
+875,Sense of belonging,Anxious about assessments,0.0
+876,Sense of belonging,Takes organised notes,0.0
+877,Sense of belonging,Health interferes studies,0.0
+878,Sense of belonging,Can improve performance,0.0
+879,GPA_S1,ASSIGN_LATE,0.0
+880,Sense of belonging,Clinical takes study time,0.0
+881,Sense of belonging,Burnt out,0.0
+882,Sense of belonging,Completes readings,0.0
+883,Hopeless/unmotivated,ASSIGN_LATE,0.0
+884,Hopeless/unmotivated,Sleep difficulty,0.0
+885,Gender,Anxious about assessments,0.0
+886,Gender,Participates in clubs,0.0
+887,Persists when difficult,Peer study groups effective,0.0
+888,Persists when difficult,Self_risk_percep,0.0
+889,Manages time effectively,ASSIGN_LATE,0.0
+890,Manages time effectively,Considered break,0.0
+891,Manages time effectively,Prepared for clinical assess,0.0
+892,Manages time effectively,Confident to complete prog,0.0
+893,Considered break,Sleep difficulty,0.0
+894,Understands content pre-exam,Reviews notes within 24h,0.0
+895,Understands content pre-exam,Rotations affect performance,0.0
+896,Persists when difficult,Confident to complete prog,0.0
+897,Gender,Early intervention provided,0.0
+898,Gender,Takes organised notes,0.0
+899,Gender,Employment_hrs,0.0
+900,Gender,Health interferes studies,0.0
+901,Gender,Can improve performance,0.0
+902,Gender,Clinical takes study time,0.0
+903,Sense of belonging,ASSIGN_LATE,0.0
+904,Sense of belonging,Rotations affect performance,0.0
+905,Sense of belonging,Considered break,0.0
+906,Sense of belonging,Uses library regularly,0.0
+907,Completes readings,Early intervention provided,0.0
+908,Completes readings,Takes organised notes,0.0
+909,Completes readings,Health interferes studies,0.0
+910,Completes readings,Can improve performance,0.0
+911,Completes readings,Clinical takes study time,0.0
+912,Completes readings,Burnt out,0.0
+913,Gender,ASSIGN_LATE,0.0
+914,Gender,Rotations affect performance,0.0
+915,Gender,Reviews notes within 24h,0.0
+916,Gender,Considered break,0.0
+917,Gender,Prepared for clinical assess,0.0
+918,Understands content pre-exam,ASSIGN_LATE,0.0
+919,Burnt out,Can improve performance,0.0
+920,Manages time effectively,Completes readings,0.0
+921,Uses library regularly,Considered break,0.0
+922,Manages time effectively,Hopeless/unmotivated,0.0
+923,Manages time effectively,Seeks help when stuck,0.0
+924,Manages time effectively,Peer study groups effective,0.0
+925,Uses library regularly,Reviews notes within 24h,0.0
+926,Manages time effectively,Lecturers approachable,0.0
+927,Concentration in self-study,ASSIGN_LATE,0.0
+928,Persists when difficult,EXAM_AVG,0.0
+929,Persists when difficult,Seeks help when stuck,0.0
+930,CLIN_AVG,Uses library regularly,0.0
+931,Concentration in self-study,Uses library regularly,0.0
+932,Manages time effectively,Takes organised notes,0.0
+933,Uses library regularly,Rotations affect performance,0.0
+934,Completes readings,Reviews notes within 24h,0.0
+935,Completes readings,Sleep difficulty,0.0
+936,Completes readings,Considered break,0.0
+937,Uses library regularly,ASSIGN_LATE,0.0
+938,Completes readings,Understands content pre-exam,0.0
+939,Prepared for clinical assess,Considered break,0.0
+940,Completes readings,Confident in clinical skills,0.0
+941,Concentration in self-study,Burnt out,0.0
+942,Concentration in self-study,Completes readings,0.0
+943,Concentration in self-study,Rotations affect performance,0.0
+944,Concentration in self-study,Sleep difficulty,0.0
+945,Burnt out,ASSIGN_LATE,0.0
+946,Burnt out,Rotations affect performance,0.0
+947,Burnt out,Reviews notes within 24h,0.0
+948,Burnt out,Sleep difficulty,0.0
+949,Confident in clinical skills,Anxious about assessments,0.0
+950,Burnt out,Understands content pre-exam,0.0
+951,Burnt out,Confident to complete prog,0.0
+952,Burnt out,Participates in clubs,0.0
+953,Burnt out,Takes organised notes,0.0
+954,Sleep_hrs,Manages time effectively,0.0
+955,Can improve performance,Takes organised notes,0.0
+956,Can improve performance,Health interferes studies,0.0
+957,Clinical takes study time,ASSIGN_LATE,0.0
+958,Sleep_hrs,Self-motivates,0.0
+959,Clinical takes study time,Sleep difficulty,0.0
+960,Study_hrs_day,ASSIGN_LATE,0.0
+961,Clinical takes study time,Prepared for clinical assess,0.0
+962,Clinical takes study time,Regular exercise,0.0
+963,Clinical takes study time,Confident in clinical skills,0.0
+964,Clinical takes study time,Participates in clubs,0.0
+965,Can improve performance,Uses library regularly,0.0
+966,Can improve performance,Confident to complete prog,0.0
+967,Can improve performance,Regular exercise,0.0
+968,Study_hrs_day,Sleep difficulty,0.0
+969,Financial_diff,Health interferes studies,0.0
+970,Financial_diff,Can improve performance,0.0
+971,Financial_diff,Gender,0.0
+972,Concentration in self-study,Anxious about assessments,0.0
+973,Concentration in self-study,Confident in clinical skills,0.0
+974,Concentration in self-study,Takes organised notes,0.0
+975,Can improve performance,Confident in clinical skills,0.0
+976,Sleep_hrs,Anxious about assessments,0.0
+977,Sleep_hrs,Confident in clinical skills,0.0
+978,Sleep_hrs,Participates in clubs,0.0
+979,Sleep_hrs,Early intervention provided,0.0
+980,Sleep_hrs,Takes organised notes,0.0
+981,Sleep_hrs,Completes readings,0.0
+982,Health interferes studies,Considered break,0.0
+983,Health interferes studies,Uses library regularly,0.0
+984,Study_hrs_day,Confident to complete prog,0.0
+985,Takes rest breaks,Rotations affect performance,0.0
+986,Takes rest breaks,Prepared for clinical assess,0.0
+987,Takes rest breaks,Uses library regularly,0.0
+988,Takes rest breaks,Anxious about assessments,0.0
+989,Takes rest breaks,Confident in clinical skills,0.0
+990,Takes rest breaks,Takes organised notes,0.0
+991,Takes rest breaks,Can improve performance,0.0
+992,Takes rest breaks,Gender,0.0
+993,Concentration in self-study,Peer study groups effective,0.0
+994,Health interferes studies,Confident to complete prog,0.0
+995,Health interferes studies,Anxious about assessments,0.0
+996,Health interferes studies,Confident in clinical skills,0.0
+997,Health interferes studies,Early intervention provided,0.0
+998,Health interferes studies,Takes organised notes,0.0
+999,Can improve performance,ASSIGN_LATE,0.0
+1000,Study_hrs_day,Regular exercise,0.0
+1001,Can improve performance,Sleep difficulty,0.0
+1002,Employment_hrs,ASSIGN_LATE,0.0
+1003,Employment_hrs,Rotations affect performance,0.0
+1004,Financial_diff,ASSIGN_LATE,0.0
+1005,Financial_diff,Rotations affect performance,0.0
+1006,Financial_diff,Sleep difficulty,0.0
+1007,Confident in clinical skills,ASSIGN_LATE,0.0
+1008,Financial_diff,Prepared for clinical assess,0.0
+1009,Confident in clinical skills,Rotations affect performance,0.0
+1010,Employment_hrs,Sleep difficulty,0.0
+1011,Employment_hrs,Considered break,0.0
+1012,Employment_hrs,Prepared for clinical assess,0.0
+1013,Employment_hrs,Uses library regularly,0.0
+1014,Employment_hrs,Understands content pre-exam,0.0
+1015,Employment_hrs,Regular exercise,0.0
+1016,Employment_hrs,Early intervention provided,0.0
+1017,Health interferes studies,Sleep difficulty,0.0
+1018,Early intervention provided,Confident in clinical skills,0.0
+1019,Early intervention provided,Participates in clubs,0.0
+1020,Takes organised notes,ASSIGN_LATE,0.0
+1021,Takes rest breaks,Lecturers approachable,0.0
+1022,Takes organised notes,Sleep difficulty,0.0
+1023,Takes organised notes,Considered break,0.0
+1024,Takes rest breaks,Concentration in self-study,0.0
+1025,Takes organised notes,Understands content pre-exam,0.0
+1026,Takes organised notes,Confident to complete prog,0.0
+1027,Takes organised notes,Regular exercise,0.0
+1028,Takes organised notes,Anxious about assessments,0.0
+1029,Takes organised notes,Confident in clinical skills,0.0
+1030,Confident in clinical skills,Uses library regularly,0.0
+1031,Takes organised notes,Early intervention provided,0.0
+1032,Participates in clubs,Prepared for clinical assess,0.0
+1033,Participates in clubs,Uses library regularly,0.0
+1034,Participates in clubs,Understands content pre-exam,0.0
+1035,CA_AVG,ASSIGN_LATE,0.0
+1036,CA_AVG,Rotations affect performance,0.0
+1037,CA_AVG,Sleep difficulty,0.0
+1038,CA_AVG,Takes organised notes,0.0
+1039,LAB_AVG,Rotations affect performance,0.0
+1040,Participates in clubs,Confident to complete prog,0.0
+1041,Participates in clubs,Regular exercise,0.0
+1042,Participates in clubs,Anxious about assessments,0.0
+1043,Participates in clubs,Confident in clinical skills,0.0
+1044,Early intervention provided,ASSIGN_LATE,0.0
+1045,Confident in clinical skills,Confident to complete prog,0.0
+1046,Early intervention provided,Considered break,0.0
+1047,Early intervention provided,Uses library regularly,0.0
+1048,Early intervention provided,Anxious about assessments,0.0
+1049,Confident in clinical skills,Reviews notes within 24h,0.0
+1050,Prepared for clinical assess,Sleep difficulty,0.0
+1051,Prepared for clinical assess,ASSIGN_LATE,0.0
+1052,Reviews notes within 24h,ASSIGN_LATE,0.0
+1053,Understands content pre-exam,Considered break,0.0
+1054,Understands content pre-exam,Prepared for clinical assess,0.0
+1055,Understands content pre-exam,Uses library regularly,0.0
+1056,Confident to complete prog,ASSIGN_LATE,0.0
+1057,Confident to complete prog,Rotations affect performance,0.0
+1058,Confident to complete prog,Reviews notes within 24h,0.0
+1059,Rotations affect performance,ASSIGN_LATE,0.0
+1060,Confident to complete prog,Considered break,0.0
+1061,Confident to complete prog,Prepared for clinical assess,0.0
+1062,Confident to complete prog,Understands content pre-exam,0.0
+1063,Regular exercise,ASSIGN_LATE,0.0
+1064,Regular exercise,Rotations affect performance,0.0
+1065,Participates in clubs,Considered break,0.0
+1066,Considered break,Reviews notes within 24h,0.0
+1067,Prepared for clinical assess,Rotations affect performance,0.0
+1068,Anxious about assessments,Considered break,0.0
+1069,Anxious about assessments,Prepared for clinical assess,0.0
+1070,Anxious about assessments,Uses library regularly,0.0
+1071,Sleep difficulty,ASSIGN_LATE,0.0
+1072,Sleep difficulty,Rotations affect performance,0.0
+1073,Regular exercise,Considered break,0.0
+1074,Regular exercise,Prepared for clinical assess,0.0
+1075,Regular exercise,Understands content pre-exam,0.0
+1076,Anxious about assessments,ASSIGN_LATE,0.0
+1077,Anxious about assessments,Understands content pre-exam,0.0
+1078,Self-motivates,Employment_hrs,0.0
+1079,Considered break,ASSIGN_LATE,0.0
+1080,Self-motivates,Completes readings,0.0
+1081,Prepared for clinical assess,Reviews notes within 24h,0.0
