@@ -1,0 +1,2 @@
+Comparison,Seed,N_Paired_Students,Both_Correct,SP_Correct_RF_Wrong,SP_Wrong_RF_Correct,Both_Wrong,Discordant_Total,SP_XGBoost_Accuracy,Random_Forest_Accuracy,Accuracy_Difference_SP_minus_RF,McNemar_Statistic,P_Value_Exact_Two_Sided,Alpha,Decision,Interpretation,Discordant_Direction
+SP-XGBoost vs Random Forest,42,117,81,6,4,26,10,0.7435897435897436,0.7264957264957265,0.017094017094017144,4.0,0.75390625,0.05,Fail to reject H0,No statistically significant difference in paired classification-error rates,More discordant students were correctly classified by SP-XGBoost

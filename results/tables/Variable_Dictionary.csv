@@ -1,0 +1,65 @@
+Variable,Data Type,Missing,Unique
+SID,object,0,585
+CGPA_Y1,float64,0,493
+GPA_S1,float64,0,185
+CA_AVG,float64,0,46
+EXAM_AVG,float64,0,44
+CLIN_AVG,float64,0,44
+LAB_AVG,float64,0,50
+ATT_RATE,float64,0,32
+FAIL_COUNT,int64,0,8
+WARN_STATUS,object,0,1
+ASSIGN_LATE,object,0,4
+Age_group,object,0,5
+Gender,object,0,2
+Year_study,int64,0,2
+Programme,object,0,2
+SES,object,0,5
+Financial_diff,object,0,5
+Employment_hrs,object,0,4
+Study_hrs_day,object,0,5
+Sleep_hrs,object,0,6
+Self_risk_percep,object,0,4
+Reviews notes within 24h,int64,0,5
+Understands content pre-exam,int64,0,5
+Seeks help when stuck,int64,0,5
+Uses library regularly,int64,0,5
+Completes readings,int64,0,5
+Takes organised notes,int64,0,5
+Concentration in self-study,int64,0,5
+Participates in class,int64,0,5
+Clinical takes study time,int64,0,5
+Prepared for clinical assess,int64,0,5
+Rotations affect performance,int64,0,5
+Adequate supervision,int64,0,5
+Schedule conflicts,int64,0,5
+Confident in clinical skills,int64,0,5
+Anxious about assessments,int64,0,5
+Sleep difficulty,int64,0,5
+Burnt out,int64,0,5
+Hopeless/unmotivated,int64,0,5
+Physical health affected,int64,0,5
+Considered break,int64,0,5
+Emotionally supported,int64,0,5
+Lecturers approachable,int64,0,5
+Sleep affects concentration,int64,0,5
+Regular exercise,int64,0,5
+Balanced diet,int64,0,5
+Health interferes studies,int64,0,5
+Takes rest breaks,int64,0,5
+Sense of belonging,int64,0,5
+Participates in clubs,int64,0,5
+Adequate advisory support,int64,0,5
+Concerns taken seriously,int64,0,5
+Early intervention provided,int64,0,5
+Peer study groups effective,int64,0,5
+Knows where to get help,int64,0,5
+Programme prepares for career,int64,0,5
+Confident to complete prog,int64,0,5
+Can improve performance,int64,0,5
+Sets academic goals,int64,0,5
+Persists when difficult,int64,0,5
+Manages time effectively,int64,0,5
+Self-motivates,int64,0,5
+Feels prepared,int64,0,5
+RISK_LABEL,object,0,3

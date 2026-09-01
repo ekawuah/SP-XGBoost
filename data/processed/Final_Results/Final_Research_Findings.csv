@@ -1,9 +1,0 @@
-Research_Area,Finding
-Predictive performance,SP-XGBoost achieved test ROC-AUC = 0.5616
-Generalisation,"SP-XGBoost CV ROC-AUC was 0.6182, compared with 0.5616 on the untouched test set."
-Feature selection,SHAP reduced the predictor space from 58 to 47 variables.
-Explainability,GPA_S1 was the strongest global predictor with mean |SHAP| = 0.9755.
-Interaction analysis,"The strongest interaction was CA_AVG × ATT_RATE, with mean absolute SHAP interaction = 0.0549."
-Early warning,"At threshold 0.10, early-warning recall was 0.7419."
-Baseline comparison,"Random Forest achieved the highest baseline CV ROC-AUC (0.9224), while SVM achieved the highest baseline test ROC-AUC (0.6370)."
-Methodological integrity,"The final test set remained untouched during training, feature selection, hyperparameter tuning, cross-validation and threshold selection."

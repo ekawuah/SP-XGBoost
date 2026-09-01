@@ -1,0 +1,13 @@
+
+SP-XGBoost Exploratory Data Analysis Report
+======================================
+Dataset Size
+Rows : 585
+Columns : 64
+Duplicate Records: 0
+Missing Variables: 0
+Target Distribution
+RISK_LABEL
+Low Risk         305
+High Risk        160
+Moderate Risk    120

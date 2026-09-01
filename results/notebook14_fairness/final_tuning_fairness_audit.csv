@@ -1,0 +1,9 @@
+Criterion,SP-XGBoost,LR,RF,SVM,Matched
+Predictor space,49 predictors,49 predictors,49 predictors,49 predictors,Yes
+Training observations,468,468,468,468,Yes
+Independent test observations,117,117,117,117,Yes
+Random seeds,"42, 123, 7","42, 123, 7","42, 123, 7","42, 123, 7",Yes
+CV folds,5,5,5,5,Yes
+Tuning objective,ROC-AUC,ROC-AUC,ROC-AUC,ROC-AUC,Yes
+Search method,Optuna,GridSearchCV,GridSearchCV,GridSearchCV,No
+Search budget,50 trials,5 candidates,64 candidates,8 candidates,No

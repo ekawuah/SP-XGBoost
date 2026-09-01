@@ -1,8 +1,0 @@
-Analysis,Value
-Best Model by Test ROC-AUC,SVM
-Best Test ROC-AUC,0.637
-SP-XGBoost Test ROC-AUC,0.5616
-SP-XGBoost Test Accuracy,0.6404
-SP-XGBoost Test Precision,0.3214
-SP-XGBoost Test Recall,0.2903
-SP-XGBoost Test F1,0.3051

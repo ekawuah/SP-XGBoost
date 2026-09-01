@@ -1,0 +1,4 @@
+Seed,Best_n_estimators,Best_max_depth,Best_min_samples_split,Best_min_samples_leaf,Best_max_features,Best_CV_ROC_AUC
+42,400,5,5,1,sqrt,0.7472258297258297
+123,400,5,2,2,sqrt,0.7583821205249778
+7,200,5,2,2,log2,0.7661738129595272

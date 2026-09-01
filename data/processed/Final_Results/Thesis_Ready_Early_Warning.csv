@@ -1,7 +1,0 @@
-Measure,Value
-Operational threshold,0.1
-Early-warning recall,0.7419
-Test observations,114
-Test data used for training,NO
-Test data used for SHAP selection,NO
-Test data used for threshold selection,NO — threshold fixed before final evaluation

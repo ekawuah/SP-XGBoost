@@ -1,0 +1,11 @@
+Analysis_Component,Evaluation_Context,Metric,Estimate,SD,Reporting_Format,Interpretation
+Original final SP-XGBoost,Independent test set,ROC-AUC,0.8138173302107728,,0.8138,Primary locked final-model test performance
+Original final SP-XGBoost,Independent test set,PR-AUC,0.7751476182716899,,0.7751,Primary locked final-model test performance
+Original final SP-XGBoost,Independent test set,F1,0.7058823529411765,,0.7059,Primary locked final-model test performance
+Three-seed robustness,"Independent test set across seeds 42, 123, and 7",ROC-AUC,0.8112802498048399,0.0021578204905831,0.8113 ± 0.0022,Reproducibility of independent-test discrimination
+Three-seed robustness,"Independent test set across seeds 42, 123, and 7",PR-AUC,0.7751807919964332,0.0028863266160274,0.7752 ± 0.0029,Reproducibility of precision-recall performance
+Three-seed robustness,"Independent test set across seeds 42, 123, and 7",F1,0.7002635519616652,0.0350360092739698,0.7003 ± 0.0350,Reproducibility of classification balance
+Three-seed 5-fold CV robustness,Training-set cross-validation; 15 fold observations,ROC-AUC,0.7679361643647358,0.03943269127199235,0.7679 ± 0.0394,Cross-validation stability across folds and seeds
+Notebook 7 Optuna optimization,5-fold CV during hyperparameter selection,ROC-AUC,0.7706,,0.7706,Optimization CV score; not an independent-test estimate
+Six-model comparison,Independent test set,First-place metrics,6.0,,6/7,SP-XGBoost ranked first on six of seven metrics
+SP-XGBoost vs Random Forest,Independent test set,Specificity,0.8360655737704918,,SP=0.8361; RF=0.8361,Specificity effectively tied at reported precision

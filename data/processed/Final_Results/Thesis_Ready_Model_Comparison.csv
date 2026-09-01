@@ -1,4 +1,0 @@
-Model,Evaluation_Set,ROC_AUC,Status
-Leakage-Resistant SP-XGBoost,Untouched Test,0.5616,Final proposed model
-Best Baseline — CV,5-Fold CV,0.9224,Highest CV baseline
-Best Baseline — Test,Untouched Test,0.637,Highest test baseline

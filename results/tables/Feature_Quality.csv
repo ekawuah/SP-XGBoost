@@ -1,0 +1,66 @@
+Variable,Missing %,Unique
+SID,0.0,585
+CGPA_Y1,0.0,493
+GPA_S1,0.0,185
+CA_AVG,0.0,46
+EXAM_AVG,0.0,44
+CLIN_AVG,0.0,44
+LAB_AVG,0.0,50
+ATT_RATE,0.0,32
+FAIL_COUNT,0.0,8
+WARN_STATUS,0.0,1
+ASSIGN_LATE,0.0,4
+Age_group,0.0,5
+Gender,0.0,2
+Year_study,0.0,2
+Programme,0.0,2
+SES,0.0,5
+Financial_diff,0.0,5
+Employment_hrs,0.0,4
+Study_hrs_day,0.0,5
+Sleep_hrs,0.0,6
+Self_risk_percep,0.0,4
+Reviews notes within 24h,0.0,5
+Understands content pre-exam,0.0,5
+Seeks help when stuck,0.0,5
+Uses library regularly,0.0,5
+Completes readings,0.0,5
+Takes organised notes,0.0,5
+Concentration in self-study,0.0,5
+Participates in class,0.0,5
+Clinical takes study time,0.0,5
+Prepared for clinical assess,0.0,5
+Rotations affect performance,0.0,5
+Adequate supervision,0.0,5
+Schedule conflicts,0.0,5
+Confident in clinical skills,0.0,5
+Anxious about assessments,0.0,5
+Sleep difficulty,0.0,5
+Burnt out,0.0,5
+Hopeless/unmotivated,0.0,5
+Physical health affected,0.0,5
+Considered break,0.0,5
+Emotionally supported,0.0,5
+Lecturers approachable,0.0,5
+Sleep affects concentration,0.0,5
+Regular exercise,0.0,5
+Balanced diet,0.0,5
+Health interferes studies,0.0,5
+Takes rest breaks,0.0,5
+Sense of belonging,0.0,5
+Participates in clubs,0.0,5
+Adequate advisory support,0.0,5
+Concerns taken seriously,0.0,5
+Early intervention provided,0.0,5
+Peer study groups effective,0.0,5
+Knows where to get help,0.0,5
+Programme prepares for career,0.0,5
+Confident to complete prog,0.0,5
+Can improve performance,0.0,5
+Sets academic goals,0.0,5
+Persists when difficult,0.0,5
+Manages time effectively,0.0,5
+Self-motivates,0.0,5
+Feels prepared,0.0,5
+RISK_LABEL,0.0,3
+Risk_Binary,100.0,0

@@ -1,7 +1,0 @@
-Analysis,Result,Feature_or_Value,Value
-Global SHAP,Top predictor,GPA_S1,0.9754770398139954
-SHAP Interaction,Strongest interaction,CA_AVG × ATT_RATE,0.054904740303754807
-Feature Selection,SHAP-selected features,47,
-Training,Training observations,658,
-Leakage Control,Test data used for SHAP,NO,
-Leakage Control,Test data used for interactions,NO,

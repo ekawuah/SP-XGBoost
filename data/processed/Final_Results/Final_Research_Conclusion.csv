@@ -1,8 +1,0 @@
-Section,Conclusion
-Primary finding,The SP-XGBoost framework successfully integrated SHAP-guided feature selection with an explainable early-warning modelling workflow.
-Predictive finding,"SP-XGBoost achieved a CV ROC-AUC of 0.6182 and an independent test ROC-AUC of 0.5616, indicating limited predictive discrimination on the untouched test set."
-Early-warning finding,"Using an operational threshold of 0.10 produced an early-warning recall of 0.7419, demonstrating that threshold adjustment can prioritize the identification of potentially at-risk students."
-Explainability finding,GPA_S1 was the most influential global SHAP predictor with mean absolute SHAP value of 0.9755.
-Interaction finding,"The strongest detected interaction was CA_AVG × ATT_RATE, indicating that predictor contributions may depend on interactions among academic, attendance and student-related factors."
-Comparative finding,"The strongest baseline on the untouched test set was SVM (ROC-AUC = 0.6370), while SP-XGBoost achieved ROC-AUC of 0.5616."
-Methodological conclusion,"The final findings should therefore be presented as evidence for the feasibility and interpretability of a SHAP-guided early-warning framework, rather than as evidence that SP-XGBoost outperformed all baseline models."

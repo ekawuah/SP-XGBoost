@@ -1,0 +1,50 @@
+SHAP_Rank,Feature
+1,GPA_S1
+2,Persists when difficult
+3,Takes rest breaks
+4,CA_AVG
+5,Manages time effectively
+6,ATT_RATE
+7,Confident in clinical skills
+8,Anxious about assessments
+9,EXAM_AVG
+10,Reviews notes within 24h
+11,CLIN_AVG
+12,Participates in clubs
+13,Sense of belonging
+14,Confident to complete prog
+15,LAB_AVG
+16,Lecturers approachable
+17,Concentration in self-study
+18,Schedule conflicts
+19,Hopeless/unmotivated
+20,Balanced diet
+21,Sleep difficulty
+22,Adequate advisory support
+23,Sleep_hrs
+24,Programme prepares for career
+25,Considered break
+26,Adequate supervision
+27,Sleep affects concentration
+28,Rotations affect performance
+29,Regular exercise
+30,Uses library regularly
+31,Burnt out
+32,Emotionally supported
+33,Early intervention provided
+34,Participates in class
+35,Self_risk_percep
+36,Understands content pre-exam
+37,ASSIGN_LATE
+38,Financial_diff
+39,Sets academic goals
+40,Self-motivates
+41,Year_study
+42,Completes readings
+43,Concerns taken seriously
+44,Employment_hrs
+45,Programme_ENT
+46,Can improve performance
+47,Seeks help when stuck
+48,Prepared for clinical assess
+49,Study_hrs_day

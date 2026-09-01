@@ -1,0 +1,2 @@
+Comparison,Seed,Test_Set_N,Positive_N,Negative_N,SP_XGBoost_ROC_AUC,Random_Forest_ROC_AUC,ROC_AUC_Difference_SP_minus_RF,DeLong_Variance_Difference,DeLong_Standard_Error,DeLong_Z,P_Value_Two_Sided,Alpha,Decision,Significance
+SP-XGBoost vs Random Forest,42,117,56,61,0.80884074941452,0.80884074941452,0.0,0.0003133851693666633,0.017702688196052693,0.0,1.0,0.05,Fail to reject H0,No statistically significant difference
