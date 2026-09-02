@@ -1,0 +1,44 @@
+{
+    "analysis_name": "GPA_S1 Exclusion Sensitivity Analysis",
+    "analysis_type": "Post-hoc supplementary sensitivity analysis",
+    "primary_pipeline_status": "LOCKED \u2014 unchanged",
+    "excluded_feature": "GPA_S1",
+    "locked_feature_count": 49,
+    "sensitivity_feature_count": 48,
+    "train_n": 468,
+    "test_n": 117,
+    "seeds": [
+        42,
+        123,
+        7
+    ],
+    "primary_inference_seed": 42,
+    "decision_threshold": 0.5,
+    "feature_reselection_performed": false,
+    "hyperparameter_retuning_performed": false,
+    "test_set_used_for_tuning": false,
+    "bootstrap_iterations": 5000,
+    "bootstrap_seed": 42,
+    "alpha": 0.05,
+    "validation_checks": {
+        "locked_primary_pipeline_unchanged": true,
+        "exactly_one_feature_removed": true,
+        "removed_feature_is_GPA_S1": true,
+        "train_sample_preserved": true,
+        "test_sample_preserved": true,
+        "same_target_labels": true,
+        "same_locked_hyperparameters": true,
+        "no_reselection": true,
+        "no_retuning": true,
+        "paired_predictions_available": true,
+        "paired_seed42_n_117": true,
+        "bootstrap_5000_completed": true
+    },
+    "key_result": {
+        "three_seed_reference_roc_auc_mean": 0.813231850117096,
+        "three_seed_excluded_roc_auc_mean": 0.5281030444964872,
+        "three_seed_mean_roc_auc_delta": -0.2851288056206089,
+        "seed42_delong_p": 6.526363757297453e-07,
+        "seed42_mcnemar_p": 0.001913961001264397
+    }
+}

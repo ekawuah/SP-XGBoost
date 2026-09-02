@@ -1,0 +1,8 @@
+{
+    "primary_pipeline_modified": false,
+    "feature_reselection_permitted": false,
+    "hyperparameter_retuning_permitted": false,
+    "test_set_used_for_tuning": false,
+    "excluded_feature": "GPA_S1",
+    "comparison_type": "post-hoc sensitivity analysis"
+}

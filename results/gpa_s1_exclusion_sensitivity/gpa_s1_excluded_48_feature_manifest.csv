@@ -1,0 +1,49 @@
+sensitivity_order,feature_name
+1,Persists when difficult
+2,Takes rest breaks
+3,CA_AVG
+4,Manages time effectively
+5,ATT_RATE
+6,Confident in clinical skills
+7,Anxious about assessments
+8,EXAM_AVG
+9,Reviews notes within 24h
+10,CLIN_AVG
+11,Participates in clubs
+12,Sense of belonging
+13,Confident to complete prog
+14,LAB_AVG
+15,Lecturers approachable
+16,Concentration in self-study
+17,Schedule conflicts
+18,Hopeless/unmotivated
+19,Balanced diet
+20,Sleep difficulty
+21,Adequate advisory support
+22,Sleep_hrs
+23,Programme prepares for career
+24,Considered break
+25,Adequate supervision
+26,Sleep affects concentration
+27,Rotations affect performance
+28,Regular exercise
+29,Uses library regularly
+30,Burnt out
+31,Emotionally supported
+32,Early intervention provided
+33,Participates in class
+34,Self_risk_percep
+35,Understands content pre-exam
+36,ASSIGN_LATE
+37,Financial_diff
+38,Sets academic goals
+39,Self-motivates
+40,Year_study
+41,Completes readings
+42,Concerns taken seriously
+43,Employment_hrs
+44,Programme_ENT
+45,Can improve performance
+46,Seeks help when stuck
+47,Prepared for clinical assess
+48,Study_hrs_day

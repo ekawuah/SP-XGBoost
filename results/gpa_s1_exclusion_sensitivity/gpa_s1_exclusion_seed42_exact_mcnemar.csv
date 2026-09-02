@@ -1,0 +1,5 @@
+Comparison,Count,Exact_McNemar_P
+Both models correct,55,0.001913961001264397
+49-feature correct / 48-feature wrong,32,
+49-feature wrong / 48-feature correct,11,
+Both models wrong,19,
