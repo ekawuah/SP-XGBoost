@@ -35,10 +35,10 @@
         "bootstrap_5000_completed": true
     },
     "key_result": {
-        "three_seed_reference_roc_auc_mean": 0.813231850117096,
-        "three_seed_excluded_roc_auc_mean": 0.5281030444964872,
-        "three_seed_mean_roc_auc_delta": -0.2851288056206089,
-        "seed42_delong_p": 6.526363757297453e-07,
-        "seed42_mcnemar_p": 0.001913961001264397
+        "three_seed_reference_roc_auc_mean": 0.8112802498048399,
+        "three_seed_excluded_roc_auc_mean": 0.5063427010148321,
+        "three_seed_mean_roc_auc_delta": -0.30493754879000784,
+        "seed42_delong_p": 1.3650128987239608e-07,
+        "seed42_mcnemar_p": 5.703811637403078e-05
     }
 }

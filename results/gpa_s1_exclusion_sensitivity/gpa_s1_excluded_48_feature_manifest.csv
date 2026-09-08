@@ -3,47 +3,47 @@ sensitivity_order,feature_name
 2,Takes rest breaks
 3,CA_AVG
 4,Manages time effectively
-5,ATT_RATE
+5,Anxious about assessments
 6,Confident in clinical skills
-7,Anxious about assessments
-8,EXAM_AVG
-9,Reviews notes within 24h
-10,CLIN_AVG
-11,Participates in clubs
-12,Sense of belonging
-13,Confident to complete prog
-14,LAB_AVG
-15,Lecturers approachable
+7,Programme_ENT
+8,ASSIGN_LATE
+9,Adequate supervision
+10,Adequate advisory support
+11,Schedule conflicts
+12,CLIN_AVG
+13,Hopeless/unmotivated
+14,Confident to complete prog
+15,ATT_RATE
 16,Concentration in self-study
-17,Schedule conflicts
-18,Hopeless/unmotivated
-19,Balanced diet
-20,Sleep difficulty
-21,Adequate advisory support
-22,Sleep_hrs
-23,Programme prepares for career
-24,Considered break
-25,Adequate supervision
-26,Sleep affects concentration
-27,Rotations affect performance
-28,Regular exercise
-29,Uses library regularly
-30,Burnt out
-31,Emotionally supported
-32,Early intervention provided
-33,Participates in class
-34,Self_risk_percep
-35,Understands content pre-exam
-36,ASSIGN_LATE
-37,Financial_diff
-38,Sets academic goals
-39,Self-motivates
+17,Sense of belonging
+18,EXAM_AVG
+19,Early intervention provided
+20,Self_risk_percep
+21,Emotionally supported
+22,Completes readings
+23,Regular exercise
+24,Rotations affect performance
+25,Burnt out
+26,Lecturers approachable
+27,Understands content pre-exam
+28,LAB_AVG
+29,Balanced diet
+30,Sleep_hrs
+31,Reviews notes within 24h
+32,Participates in clubs
+33,Prepared for clinical assess
+34,Sleep difficulty
+35,Considered break
+36,Self-motivates
+37,Concerns taken seriously
+38,Study_hrs_day
+39,Participates in class
 40,Year_study
-41,Completes readings
-42,Concerns taken seriously
-43,Employment_hrs
-44,Programme_ENT
-45,Can improve performance
-46,Seeks help when stuck
-47,Prepared for clinical assess
-48,Study_hrs_day
+41,Seeks help when stuck
+42,Programme prepares for career
+43,Can improve performance
+44,Sleep affects concentration
+45,Uses library regularly
+46,Sets academic goals
+47,Financial_diff
+48,Employment_hrs
