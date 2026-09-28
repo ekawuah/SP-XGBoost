@@ -1,0 +1,13 @@
+Variable,Chi-square,p-value
+Programme,10.905,0.00429
+ASSIGN_LATE,14.302,0.02644
+Study_hrs_day,9.108,0.33325
+SID,1170.0,0.47801
+Self_risk_percep,4.428,0.61891
+Financial_diff,5.422,0.71168
+Gender,0.507,0.77591
+Sleep_hrs,6.339,0.78603
+Employment_hrs,2.308,0.88929
+SES,2.454,0.96385
+Age_group,2.191,0.97459
+WARN_STATUS,0.0,1.0

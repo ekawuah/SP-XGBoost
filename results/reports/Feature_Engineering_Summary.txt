@@ -1,0 +1,69 @@
+
+FEATURE ENGINEERING SUMMARY
+======================================================================
+
+DATA PREPARATION OVERVIEW
+----------------------------------------------------------------------
+  Source: Notebook 1 (01_EDA.ipynb)
+  Records: 585
+  Original Features: 59
+  Encoded Features: 91
+
+  Categorical Variables Encoded: 10
+  Numeric Variables Retained: 49
+
+PREDICTOR VARIABLES (59 total)
+----------------------------------------------------------------------
+  Academic (Semester-1): 7
+  Demographics (Baseline): 10
+  Survey Items: 42
+
+TARGET VARIABLES
+----------------------------------------------------------------------
+  Primary: RISK_BINARY (0/1)
+    - 0 = Not at Risk (Low Risk)
+    - 1 = At Risk (Moderate Risk + High Risk)
+
+  Secondary: RISK_LABEL (3-level)
+    - Low Risk
+    - Moderate Risk
+    - High Risk
+    (Used for sensitivity analysis)
+
+TRAIN-TEST SPLIT
+----------------------------------------------------------------------
+  Training: 468 records (80%)
+  Testing: 117 records (20%)
+  Method: Stratified split on binary target
+
+CLEAN DATASETS CREATED
+----------------------------------------------------------------------
+  1. SPhealth_clean_binary.csv
+     - Full dataset with binary target
+     - Shape: 585 rows × 93 columns
+
+  2. SPhealth_train_binary.csv
+     - Training set with binary target
+     - Shape: 562 rows × 93 columns
+
+  3. SPhealth_test_binary.csv
+     - Test set with binary target
+     - Shape: 211 rows × 93 columns
+
+  4. SPhealth_clean_multiclass.csv
+     - Full dataset with 3-level target (sensitivity analysis)
+     - Shape: 585 rows × 93 columns
+
+  5. SPhealth_train_multiclass.csv
+     - Training set with 3-level target
+     - Shape: 562 rows × 93 columns
+
+  6. SPhealth_test_multiclass.csv
+     - Test set with 3-level target
+     - Shape: 211 rows × 93 columns
+
+NEXT STEPS
+----------------------------------------------------------------------
+  → Notebook 3: Model Training (XGBoost - Binary Classification)
+  → Notebook 4: Model Evaluation & Interpretation (SHAP)
+  → Notebook 5: Sensitivity Analysis (Multiclass)

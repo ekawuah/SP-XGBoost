@@ -1,0 +1,18 @@
+{
+    "model": "Optimised Multiclass XGBoost",
+    "task": "Secondary Multiclass Risk Classification",
+    "predictors": 61,
+    "training_observations": 468,
+    "test_observations": 117,
+    "n_classes": 3,
+    "roc_auc_ovr_macro": 0.7466386893790956,
+    "f1_macro": 0.4946971949648131,
+    "precision_macro": 0.49128099282898036,
+    "recall_macro": 0.5076608496386391,
+    "accuracy": 0.5555555555555556,
+    "optuna_trials": 50,
+    "cv_folds": 5,
+    "optimization_metric": "F1-Macro",
+    "random_seed": 42,
+    "class_weighting": true
+}

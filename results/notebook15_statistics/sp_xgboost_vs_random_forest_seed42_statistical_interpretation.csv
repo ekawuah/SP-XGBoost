@@ -1,0 +1,7 @@
+Finding,Evidence,Interpretation
+Primary ROC-AUC comparison,SP-XGBoost=0.8185; Random Forest=0.7968; Δ=+0.0217; DeLong p=0.3956,No statistically significant difference in matched seed-42 ROC-AUC.
+ROC-AUC uncertainty,"Paired bootstrap 95% CI for ΔROC-AUC: [-0.0296, +0.0741]",The ROC-AUC difference is compatible with both small SP-XGBoost and small Random Forest advantages.
+Recall,"SP-XGBoost=0.6429; Random Forest=0.6429; Δ=+0.0000; 95% CI=[-0.1071, +0.1071]",SP-XGBoost and Random Forest had the same observed recall in the matched seed-42 evaluation; the paired bootstrap interval included zero.
+Overall classification errors,SP correct/RF wrong=9; SP wrong/RF correct=7; exact McNemar p=0.8036,No statistically significant difference in overall paired classification-error rates.
+Model equivalence,Non-significant DeLong and McNemar tests,Failure to reject the null hypotheses does not establish statistical equivalence between the models.
+Evaluation scope,Matched seed-42 analysis on the same 117 test students,Inferential conclusions apply specifically to the matched seed-42 evaluation and do not replace the original final SP-XGBoost or three-seed robustness results.

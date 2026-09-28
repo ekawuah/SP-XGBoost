@@ -1,0 +1,50 @@
+Rank,Feature,Mean_Abs_SHAP
+1,GPA_S1,0.7156005
+2,Persists when difficult,0.11960422
+3,Takes rest breaks,0.10091114
+4,CA_AVG,0.07387062
+5,Manages time effectively,0.072895445
+6,Anxious about assessments,0.06710886
+7,Confident in clinical skills,0.065403305
+8,Programme_ENT,0.05583772
+9,ASSIGN_LATE,0.050635926
+10,Adequate supervision,0.04965483
+11,Adequate advisory support,0.044932652
+12,Schedule conflicts,0.03757633
+13,CLIN_AVG,0.031971976
+14,Hopeless/unmotivated,0.029625928
+15,Confident to complete prog,0.022513939
+16,ATT_RATE,0.020459384
+17,Concentration in self-study,0.017668225
+18,Sense of belonging,0.016772686
+19,EXAM_AVG,0.016305637
+20,Early intervention provided,0.01603383
+21,Self_risk_percep,0.015733868
+22,Emotionally supported,0.015581715
+23,Completes readings,0.01538803
+24,Regular exercise,0.014171997
+25,Rotations affect performance,0.01373433
+26,Burnt out,0.013613035
+27,Lecturers approachable,0.0135203535
+28,Understands content pre-exam,0.013195404
+29,LAB_AVG,0.013045846
+30,Balanced diet,0.012840561
+31,Sleep_hrs,0.01033644
+32,Reviews notes within 24h,0.009175218
+33,Participates in clubs,0.008916707
+34,Prepared for clinical assess,0.00834647
+35,Sleep difficulty,0.007930268
+36,Considered break,0.007077519
+37,Self-motivates,0.0063542523
+38,Concerns taken seriously,0.0061365096
+39,Study_hrs_day,0.0055687246
+40,Participates in class,0.0055321627
+41,Year_study,0.004744074
+42,Seeks help when stuck,0.0045324313
+43,Programme prepares for career,0.0038934632
+44,Can improve performance,0.0029237836
+45,Sleep affects concentration,0.0020825916
+46,Uses library regularly,0.0
+47,Sets academic goals,0.0
+48,Financial_diff,0.0
+49,Employment_hrs,0.0

@@ -1,0 +1,92 @@
+Feature,Type,Data_Type
+GPA_S1,Original,float64
+CA_AVG,Original,float64
+EXAM_AVG,Original,float64
+CLIN_AVG,Original,float64
+LAB_AVG,Original,float64
+ATT_RATE,Original,float64
+Year_study,Original,int64
+Reviews notes within 24h,Original,int64
+Understands content pre-exam,Original,int64
+Seeks help when stuck,Original,int64
+Uses library regularly,Original,int64
+Completes readings,Original,int64
+Takes organised notes,Original,int64
+Concentration in self-study,Original,int64
+Participates in class,Original,int64
+Clinical takes study time,Original,int64
+Prepared for clinical assess,Original,int64
+Rotations affect performance,Original,int64
+Adequate supervision,Original,int64
+Schedule conflicts,Original,int64
+Confident in clinical skills,Original,int64
+Anxious about assessments,Original,int64
+Sleep difficulty,Original,int64
+Burnt out,Original,int64
+Hopeless/unmotivated,Original,int64
+Physical health affected,Original,int64
+Considered break,Original,int64
+Emotionally supported,Original,int64
+Lecturers approachable,Original,int64
+Sleep affects concentration,Original,int64
+Regular exercise,Original,int64
+Balanced diet,Original,int64
+Health interferes studies,Original,int64
+Takes rest breaks,Original,int64
+Sense of belonging,Original,int64
+Participates in clubs,Original,int64
+Adequate advisory support,Original,int64
+Concerns taken seriously,Original,int64
+Early intervention provided,Original,int64
+Peer study groups effective,Original,int64
+Knows where to get help,Original,int64
+Programme prepares for career,Original,int64
+Confident to complete prog,Original,int64
+Can improve performance,Original,int64
+Sets academic goals,Original,int64
+Persists when difficult,Original,int64
+Manages time effectively,Original,int64
+Self-motivates,Original,int64
+Feels prepared,Original,int64
+ASSIGN_LATE_Almost never,Encoded,bool
+ASSIGN_LATE_Always,Encoded,bool
+ASSIGN_LATE_Rarely,Encoded,bool
+ASSIGN_LATE_Sometimes,Encoded,bool
+Age_group_18-20 years,Encoded,bool
+Age_group_21-23 years,Encoded,bool
+Age_group_24-26 years,Encoded,bool
+Age_group_27-29 years,Encoded,bool
+Age_group_30-35 years,Encoded,bool
+Gender_Female,Encoded,bool
+Gender_Male,Encoded,bool
+Programme_ENT,Encoded,bool
+Programme_Nursing,Encoded,bool
+SES_High income,Encoded,bool
+SES_Low income,Encoded,bool
+SES_Middle income,Encoded,bool
+SES_Upper-middle income,Encoded,bool
+SES_Very low income,Encoded,bool
+Financial_diff_Always,Encoded,bool
+Financial_diff_Never,Encoded,bool
+Financial_diff_Often (weekly),Encoded,bool
+Financial_diff_Rarely (once or twice a semester),Encoded,bool
+Financial_diff_Sometimes (monthly),Encoded,bool
+Employment_hrs_No,Encoded,bool
+Employment_hrs_Yes - 10-20 hours/week,Encoded,bool
+Employment_hrs_Yes - fewer than 10 hours/week,Encoded,bool
+Employment_hrs_Yes - more than 20 hours/week,Encoded,bool
+Study_hrs_day_1-2 hours,Encoded,bool
+Study_hrs_day_2-3 hours,Encoded,bool
+Study_hrs_day_3-4 hours,Encoded,bool
+Study_hrs_day_Less than 1 hour,Encoded,bool
+Study_hrs_day_More than 4 hours,Encoded,bool
+Sleep_hrs_4-5 hours,Encoded,bool
+Sleep_hrs_5-6 hours,Encoded,bool
+Sleep_hrs_6-7 hours,Encoded,bool
+Sleep_hrs_7-8 hours,Encoded,bool
+Sleep_hrs_Less than 4 hours,Encoded,bool
+Sleep_hrs_More than 8 hours,Encoded,bool
+Self_risk_percep_High risk,Encoded,bool
+Self_risk_percep_Low risk,Encoded,bool
+Self_risk_percep_Moderate risk,Encoded,bool
+Self_risk_percep_Very low risk,Encoded,bool
