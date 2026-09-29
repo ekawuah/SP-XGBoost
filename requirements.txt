@@ -13,3 +13,19 @@ scipy==1.18.0
 ipykernel==7.3.0
 python==3.13.14
 joblib==1.5.3
+pyzmq==27.2.0
+traitlets==5.16.1
+jupyter_client==8.10.0
+IPython==9.17.1
+ipykernel==7.3.0
+=== VERIFIED SP-XGBOOST ENVIRONMENT ===
+Python: 3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+Platform: Windows-11-10.0.26200-SP0
+Architecture: AMD64
+NumPy: 2.5.3
+Pandas: 3.0.6
+scikit-learn: 1.9.1
+XGBoost: 3.4.1
+SHAP: 0.52.0
+Optuna: 5.0.0
+========================================
