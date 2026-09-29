@@ -1,5 +1,5 @@
 SP_XGBoost_Status,Random_Forest_Status,Count
-Correct,Correct,81
-Correct,Wrong,6
-Wrong,Correct,4
-Wrong,Wrong,26
+Correct,Correct,78
+Correct,Wrong,9
+Wrong,Correct,7
+Wrong,Wrong,23

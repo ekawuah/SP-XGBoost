@@ -1,9 +1,9 @@
 Statistic,Value
-Number of predictors,49
-Number of training observations,468
-SHAP values per observation,22932
-Mean absolute SHAP,0.037954263
-Median absolute SHAP,0.00874324
-Minimum absolute SHAP,0
-Maximum absolute SHAP,2.245297432
-Standard deviation of absolute SHAP,0.131898046
+Number of predictors,49.0
+Number of training observations,468.0
+SHAP values per observation,22932.0
+Mean absolute SHAP,0.029534628614783287
+Median absolute SHAP,0.0038042766973376274
+Minimum absolute SHAP,0.0
+Maximum absolute SHAP,1.9173533916473389
+Standard deviation of absolute SHAP,0.1151336058974266
