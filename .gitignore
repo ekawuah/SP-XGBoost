@@ -1,0 +1,184 @@
+# 1. OS Files
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.directory
+.fuse_hidden*
+.nfs*
+
+
+# 2. Python Bytecode, Caches & Distribution
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# Distribution / Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+
+# 3. Virtual Environments
+
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+.conda/
+conda/
+
+# Poetry / Pipenv
+.pdm.toml
+.pdm-python
+.pdm-build/
+Pipfile.lock
+poetry.lock
+
+
+# 4. Jupyter Notebooks & Interactive Sessions
+
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*-checkpoint.ipynb
+.jupyter/
+.ipython/
+
+
+# 5. IDEs, Editors & Developer Tools
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains (PyCharm, IntelliJ)
+.idea/
+*.iws
+*.iml
+
+# Antigravity / Cursor / Windsurf / AI Tools
+.gemini/
+.cursor/
+.windsurf/
+.claude/
+
+# Sublime Text & TextMate
+*.sublime-workspace
+*.sublime-project
+tmproject
+*.tmproj
+tmtags
+
+# Terminal & Editor backups
+*.swp
+*.swo
+*~
+.#*
+#*#
+
+
+# 6. Machine Learning, Optuna & Experiment Tracking
+# Optuna storage
+optuna.db
+*.optuna.db
+*.sqlite
+*.sqlite3
+
+# Experiment tracking & Visualization
+mlruns/
+mlartifacts/
+wandb/
+runs/
+lightning_logs/
+
+# Profiling
+*.prof
+*.pstats
+
+
+# 7. Environment Variables, Secrets & Credentials
+
+.env
+.env.*
+*.env
+!.env.example
+!.env.template
+*.pem
+*.key
+*.cert
+credentials.json
+client_secrets.json
+
+
+# 8. Testing, Linting & Type Checking
+
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Type Checkers & Linters
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+
+
+# 9. Logs, Temp Files & Scratch
+
+*.log
+logs/
+*.tmp
+*.bak
+scratch/
+tmp/
+temp/
