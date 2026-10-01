@@ -1,0 +1,21 @@
+{
+  "analysis": "GPA_S1-excluded 48-feature global SHAP importance",
+  "primary_feature_count": 49,
+  "sensitivity_feature_count": 48,
+  "excluded_feature": "GPA_S1",
+  "training_observations": 468,
+  "test_set_used": false,
+  "feature_reselection": false,
+  "hyperparameter_retuning": false,
+  "shap_model_seed": 42,
+  "verified_sensitivity_models": [
+    42,
+    123,
+    7
+  ],
+  "model_seed_42": "C:\\Users\\HP\\Documents\\SP-XGBOOST\\models\\gpa_s1_exclusion_sensitivity\\sp_xgboost_without_gpa_s1_seed_42.pkl",
+  "ranking_file": "C:\\Users\\HP\\Documents\\SP-XGBOOST\\results\\gpa_s1_exclusion_sensitivity\\gpa_s1_excluded_48_feature_shap_importance_seed42.csv",
+  "plot_file": "C:\\Users\\HP\\Documents\\SP-XGBOOST\\results\\gpa_s1_exclusion_sensitivity\\gpa_s1_excluded_48_feature_shap_importance_seed42.png",
+  "top_feature": "Takes rest breaks",
+  "top_mean_absolute_shap": 0.10262937843799591
+}
